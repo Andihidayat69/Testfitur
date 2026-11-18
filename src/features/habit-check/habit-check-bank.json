@@ -1,0 +1,132 @@
+[
+  {
+    "id": "habit-01",
+    "text": "Ketika menerima uang saku atau gaji, apa yang biasanya kamu lakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membagi uang untuk kebutuhan, tabungan, dan hiburan.",
+        "character": "The Planner"
+      },
+      {
+        "key": "B",
+        "text": "Menyisihkan sebagian uang untuk ditabung.",
+        "character": "The Saver"
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang untuk memenuhi keinginan terlebih dahulu.",
+        "character": "The Impulsive"
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tanpa perencanaan.",
+        "character": "The Spontaneous"
+      }
+    ]
+  },
+  {
+    "id": "habit-02",
+    "text": "Ketika melihat barang menarik yang sedang diskon, apa yang kamu lakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli jika memang dibutuhkan.",
+        "character": "The Planner"
+      },
+      {
+        "key": "B",
+        "text": "Mempertimbangkan kondisi keuangan sebelum membeli.",
+        "character": "The Balanced"
+      },
+      {
+        "key": "C",
+        "text": "Membeli karena takut kehilangan kesempatan diskon.",
+        "character": "The Impulsive"
+      },
+      {
+        "key": "D",
+        "text": "Langsung membeli tanpa mempertimbangkan anggaran.",
+        "character": "The Spontaneous"
+      }
+    ]
+  },
+  {
+    "id": "habit-03",
+    "text": "Ketika uang mulai menipis sebelum akhir bulan, apa yang kamu lakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengevaluasi pengeluaran dan menyusun ulang anggaran.",
+        "character": "The Planner"
+      },
+      {
+        "key": "B",
+        "text": "Mengurangi pengeluaran hiburan dan jajan.",
+        "character": "The Saver"
+      },
+      {
+        "key": "C",
+        "text": "Tetap membeli sesuatu yang diinginkan.",
+        "character": "The Impulsive"
+      },
+      {
+        "key": "D",
+        "text": "Meminta tambahan uang karena tidak memiliki persiapan.",
+        "character": "The Spontaneous"
+      }
+    ]
+  },
+  {
+    "id": "habit-04",
+    "text": "Bagaimana kebiasaanmu dalam menggunakan uang untuk jajan atau hiburan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Selalu memiliki batas anggaran.",
+        "character": "The Planner"
+      },
+      {
+        "key": "B",
+        "text": "Memiliki anggaran tetapi sesekali melebihi batas.",
+        "character": "The Balanced"
+      },
+      {
+        "key": "C",
+        "text": "Sering membeli sesuatu secara spontan.",
+        "character": "The Impulsive"
+      },
+      {
+        "key": "D",
+        "text": "Mengutamakan jajan dan hiburan tanpa menghitung pengeluaran.",
+        "character": "The Spontaneous"
+      }
+    ]
+  },
+  {
+    "id": "habit-05",
+    "text": "Jika mendapatkan uang tambahan, apa yang paling mungkin kamu lakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menambah tabungan atau dana darurat.",
+        "character": "The Saver"
+      },
+      {
+        "key": "B",
+        "text": "Membagi uang untuk tabungan dan kebutuhan pribadi.",
+        "character": "The Balanced"
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang yang sudah lama diinginkan.",
+        "character": "The Impulsive"
+      },
+      {
+        "key": "D",
+        "text": "Menggunakannya untuk bersenang-senang.",
+        "character": "The Spontaneous"
+      }
+    ]
+  }
+]

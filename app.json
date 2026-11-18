@@ -1,0 +1,71 @@
+{
+  "expo": {
+    "name": "Jajan Tenang",
+    "slug": "jajantenang",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/brand/app-icon.png",
+    "scheme": "jajantenang",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.picaloid.jajantenang",
+      "icon": "./assets/brand/app-icon.png",
+      "buildNumber": "2"
+    },
+    "android": {
+      "package": "com.picaloid.jajantenang",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "backgroundColor": "#EAF3FF",
+        "foregroundImage": "./assets/brand/adaptive-foreground.png",
+        "backgroundImage": "./assets/brand/adaptive-background.png",
+        "monochromeImage": "./assets/brand/adaptive-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "output": "server",
+      "favicon": "./assets/brand/app-icon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#F7FAFF",
+          "image": "./assets/brand/splash-logo.png",
+          "imageWidth": 200
+        }
+      ],
+      [
+        "expo-sqlite",
+        {
+          "useSQLCipher": true
+        }
+      ],
+      "expo-secure-store",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/brand/notification-icon.png",
+          "color": "#4385F5"
+        }
+      ],
+      "@react-native-community/datetimepicker"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "8729715c-63ce-455a-a213-6395f45d4f1c"
+      }
+    }
+  }
+}

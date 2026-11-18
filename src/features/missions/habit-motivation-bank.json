@@ -1,0 +1,8102 @@
+[
+  {
+    "id": "mission-001",
+    "questionNumber": 1,
+    "level": 1,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Kondisi Keuangan",
+    "text": "Apa langkah pertama untuk mengetahui kondisi keuangan pribadi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli kebutuhan yang diinginkan."
+      },
+      {
+        "key": "B",
+        "text": "Memeriksa jumlah uang yang dimiliki."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang tanpa perhitungan."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu sampai uang habis."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-002",
+    "questionNumber": 2,
+    "level": 1,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Kondisi Keuangan",
+    "text": "Apa yang sebaiknya dilakukan untuk mengetahui pengeluaran harian?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengingat pengeluaran saja."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat pengeluaran secara rutin."
+      },
+      {
+        "key": "C",
+        "text": "Mencatat hanya pengeluaran besar."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan pengeluaran kecil."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-003",
+    "questionNumber": 3,
+    "level": 1,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Kondisi Keuangan",
+    "text": "Apa perbedaan kebutuhan dan keinginan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kebutuhan harus dipenuhi, sedangkan keinginan dapat ditunda."
+      },
+      {
+        "key": "B",
+        "text": "Semua barang yang disukai termasuk kebutuhan."
+      },
+      {
+        "key": "C",
+        "text": "Keinginan harus dipenuhi terlebih dahulu."
+      },
+      {
+        "key": "D",
+        "text": "Keduanya tidak memiliki perbedaan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-004",
+    "questionNumber": 4,
+    "level": 2,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Pengeluaran",
+    "text": "Pengeluaran apa yang perlu dicatat dalam pengelolaan keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pengeluaran besar saja."
+      },
+      {
+        "key": "B",
+        "text": "Pengeluaran yang dianggap penting."
+      },
+      {
+        "key": "C",
+        "text": "Seluruh pengeluaran, termasuk nominal kecil."
+      },
+      {
+        "key": "D",
+        "text": "Pengeluaran bulanan saja."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-005",
+    "questionNumber": 5,
+    "level": 2,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Pengeluaran",
+    "text": "Mengapa pengeluaran jajan perlu diperhatikan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Karena tidak perlu dibatasi."
+      },
+      {
+        "key": "B",
+        "text": "Karena pengeluaran kecil yang sering terjadi dapat menumpuk."
+      },
+      {
+        "key": "C",
+        "text": "Karena jajan selalu menjadi kebutuhan utama."
+      },
+      {
+        "key": "D",
+        "text": "Karena jajan tidak memengaruhi keuangan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-006",
+    "questionNumber": 6,
+    "level": 2,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Pengeluaran",
+    "text": "Apa yang sebaiknya dilakukan setelah mengetahui pengeluaran terbesar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikannya."
+      },
+      {
+        "key": "B",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Mengevaluasi dan mencari cara mengoptimalkannya."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-007",
+    "questionNumber": 7,
+    "level": 3,
+    "category": "Financial Awareness",
+    "levelTitle": "Memahami Prioritas",
+    "text": "Ketika uang terbatas, pengeluaran apa yang harus didahulukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kebutuhan pokok."
+      },
+      {
+        "key": "B",
+        "text": "Hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Barang bermerek."
+      },
+      {
+        "key": "D",
+        "text": "Keinginan pribadi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-008",
+    "questionNumber": 8,
+    "level": 3,
+    "category": "Financial Awareness",
+    "levelTitle": "Memahami Prioritas",
+    "text": "Apa yang harus dilakukan sebelum membeli barang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti rekomendasi teman."
+      },
+      {
+        "key": "B",
+        "text": "Memastikan barang tersebut sesuai kebutuhan dan anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Membeli karena sedang tren."
+      },
+      {
+        "key": "D",
+        "text": "Membeli karena banyak diskon."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-009",
+    "questionNumber": 9,
+    "level": 3,
+    "category": "Financial Awareness",
+    "levelTitle": "Memahami Prioritas",
+    "text": "Jika memiliki dua keinginan tetapi uang terbatas, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli keduanya."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Memprioritaskan kebutuhan dan menunda keinginan."
+      },
+      {
+        "key": "D",
+        "text": "Meminjam uang."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-010",
+    "questionNumber": 10,
+    "level": 4,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Kebiasaan Belanja",
+    "text": "Apa yang sebaiknya dilakukan ketika sering membeli makanan di luar anggaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkannya."
+      },
+      {
+        "key": "B",
+        "text": "Menambah anggaran tanpa evaluasi."
+      },
+      {
+        "key": "C",
+        "text": "Mengurangi dan membatasi pengeluaran tersebut."
+      },
+      {
+        "key": "D",
+        "text": "Mengambil uang tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-011",
+    "questionNumber": 11,
+    "level": 4,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Kebiasaan Belanja",
+    "text": "Apa manfaat mengetahui kebiasaan belanja pribadi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengetahui pola pengeluaran dan memperbaikinya."
+      },
+      {
+        "key": "B",
+        "text": "Menambah keinginan berbelanja."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan uang lebih cepat."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari pencatatan keuangan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-012",
+    "questionNumber": 12,
+    "level": 4,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Kebiasaan Belanja",
+    "text": "Bagaimana cara mengetahui apakah pengeluaran sudah berlebihan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membandingkan pengeluaran dengan anggaran."
+      },
+      {
+        "key": "B",
+        "text": "Melihat jumlah barang yang dibeli."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti pengeluaran teman."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu uang habis."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-013",
+    "questionNumber": 13,
+    "level": 5,
+    "category": "Financial Awareness",
+    "levelTitle": "Evaluasi Diri",
+    "text": "Apa yang sebaiknya dilakukan setelah mencatat pengeluaran selama beberapa hari?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghapus catatan."
+      },
+      {
+        "key": "B",
+        "text": "Mengevaluasi pola pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan hasilnya."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-014",
+    "questionNumber": 14,
+    "level": 5,
+    "category": "Financial Awareness",
+    "levelTitle": "Evaluasi Diri",
+    "text": "Jika menemukan pengeluaran yang tidak diperlukan, apa tindakan terbaik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengulanginya."
+      },
+      {
+        "key": "B",
+        "text": "Mengurangi atau menghentikannya."
+      },
+      {
+        "key": "C",
+        "text": "Menambah anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikannya."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-015",
+    "questionNumber": 15,
+    "level": 5,
+    "category": "Financial Awareness",
+    "levelTitle": "Evaluasi Diri",
+    "text": "Mengapa evaluasi keuangan perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar mengetahui kondisi dan memperbaiki pengelolaan uang."
+      },
+      {
+        "key": "B",
+        "text": "Agar bisa berbelanja lebih banyak."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu membuat anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Agar uang cepat habis."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-016",
+    "questionNumber": 16,
+    "level": 6,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Pola Pengeluaran",
+    "text": "Apa yang dimaksud dengan pengeluaran rutin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pengeluaran yang dilakukan secara berulang."
+      },
+      {
+        "key": "B",
+        "text": "Pengeluaran yang hanya terjadi sekali."
+      },
+      {
+        "key": "C",
+        "text": "Pengeluaran yang tidak direncanakan."
+      },
+      {
+        "key": "D",
+        "text": "Pengeluaran untuk hiburan saja."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-017",
+    "questionNumber": 17,
+    "level": 6,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Pola Pengeluaran",
+    "text": "Bagaimana cara mengetahui pengeluaran yang paling sering dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menebak jumlahnya."
+      },
+      {
+        "key": "B",
+        "text": "Memeriksa catatan transaksi."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti kebiasaan orang lain."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan transaksi."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-018",
+    "questionNumber": 18,
+    "level": 6,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengenali Pola Pengeluaran",
+    "text": "Apa manfaat mengelompokkan pengeluaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempermudah mengetahui penggunaan uang berdasarkan kategori."
+      },
+      {
+        "key": "B",
+        "text": "Membuat pengeluaran bertambah."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan kebutuhan mencatat."
+      },
+      {
+        "key": "D",
+        "text": "Mengurangi jumlah pemasukan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-019",
+    "questionNumber": 19,
+    "level": 7,
+    "category": "Financial Awareness",
+    "levelTitle": "Memahami Pemasukan",
+    "text": "Apa yang dimaksud dengan pemasukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uang yang dikeluarkan."
+      },
+      {
+        "key": "B",
+        "text": "Uang yang diterima atau diperoleh."
+      },
+      {
+        "key": "C",
+        "text": "Uang yang dipinjam."
+      },
+      {
+        "key": "D",
+        "text": "Uang yang digunakan untuk belanja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-020",
+    "questionNumber": 20,
+    "level": 7,
+    "category": "Financial Awareness",
+    "levelTitle": "Memahami Pemasukan",
+    "text": "Mengapa pemasukan perlu dicatat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Untuk mengetahui jumlah uang yang tersedia."
+      },
+      {
+        "key": "B",
+        "text": "Untuk meningkatkan pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Untuk menghindari menabung."
+      },
+      {
+        "key": "D",
+        "text": "Untuk membeli barang lebih banyak."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-021",
+    "questionNumber": 21,
+    "level": 7,
+    "category": "Financial Awareness",
+    "levelTitle": "Memahami Pemasukan",
+    "text": "Jika pemasukan berubah, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap menggunakan anggaran lama tanpa evaluasi."
+      },
+      {
+        "key": "B",
+        "text": "Menyesuaikan anggaran berdasarkan pemasukan terbaru."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan seluruh pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan perubahan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-022",
+    "questionNumber": 22,
+    "level": 8,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengidentifikasi Pemborosan",
+    "text": "Apa contoh perilaku pemborosan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli barang yang diperlukan."
+      },
+      {
+        "key": "B",
+        "text": "Menabung secara rutin."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang berulang kali padahal masih tersedia."
+      },
+      {
+        "key": "D",
+        "text": "Membandingkan harga."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-023",
+    "questionNumber": 23,
+    "level": 8,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengidentifikasi Pemborosan",
+    "text": "Bagaimana cara mengurangi pemborosan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli berdasarkan keinginan."
+      },
+      {
+        "key": "B",
+        "text": "Membuat batas pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti semua promo."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-024",
+    "questionNumber": 24,
+    "level": 8,
+    "category": "Financial Awareness",
+    "levelTitle": "Mengidentifikasi Pemborosan",
+    "text": "Apa yang perlu dilakukan ketika menyadari sering mengeluarkan uang untuk hal tidak penting?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikannya."
+      },
+      {
+        "key": "B",
+        "text": "Mengidentifikasi penyebab dan memperbaiki kebiasaan."
+      },
+      {
+        "key": "C",
+        "text": "Menambah uang jajan."
+      },
+      {
+        "key": "D",
+        "text": "Mengurangi tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-025",
+    "questionNumber": 25,
+    "level": 9,
+    "category": "Financial Awareness",
+    "levelTitle": "Kesadaran Finansial",
+    "text": "Apa tujuan utama mengelola keuangan pribadi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memenuhi semua keinginan."
+      },
+      {
+        "key": "B",
+        "text": "Mengatur uang agar kebutuhan dan tujuan finansial terpenuhi."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan seluruh pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti gaya hidup orang lain."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-026",
+    "questionNumber": 26,
+    "level": 9,
+    "category": "Financial Awareness",
+    "levelTitle": "Kesadaran Finansial",
+    "text": "Mengapa seseorang perlu memiliki tujuan keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar penggunaan uang lebih terarah."
+      },
+      {
+        "key": "B",
+        "text": "Agar bisa berbelanja tanpa batas."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu menabung."
+      },
+      {
+        "key": "D",
+        "text": "Agar memiliki lebih banyak utang."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-027",
+    "questionNumber": 27,
+    "level": 9,
+    "category": "Financial Awareness",
+    "levelTitle": "Kesadaran Finansial",
+    "text": "Apa langkah yang tepat untuk memperbaiki kebiasaan finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghindari evaluasi."
+      },
+      {
+        "key": "B",
+        "text": "Mengenali masalah dan melakukan perubahan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti kebiasaan orang lain."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tanpa perencanaan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-028",
+    "questionNumber": 28,
+    "level": 10,
+    "category": "Financial Awareness",
+    "levelTitle": "Evaluasi Financial Awareness",
+    "text": "Apa yang perlu dilakukan untuk mengetahui perkembangan kondisi keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membandingkan catatan keuangan dari waktu ke waktu."
+      },
+      {
+        "key": "B",
+        "text": "Mengingat pengeluaran saja."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikan pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Menambah pengeluaran."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-029",
+    "questionNumber": 29,
+    "level": 10,
+    "category": "Financial Awareness",
+    "levelTitle": "Evaluasi Financial Awareness",
+    "text": "Jika pengeluaran lebih besar daripada pemasukan, apa tindakan yang tepat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menambah belanja."
+      },
+      {
+        "key": "B",
+        "text": "Mengevaluasi dan mengurangi pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikan kondisi tersebut."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-030",
+    "questionNumber": 30,
+    "level": 10,
+    "category": "Financial Awareness",
+    "levelTitle": "Evaluasi Financial Awareness",
+    "text": "Apa langkah selanjutnya setelah memahami kondisi keuangan pribadi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membuat perencanaan keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Berbelanja lebih banyak."
+      },
+      {
+        "key": "C",
+        "text": "Menghindari pencatatan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tanpa batas."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-031",
+    "questionNumber": 31,
+    "level": 11,
+    "category": "Spending Control",
+    "levelTitle": "Mengatur Anggaran Jajan",
+    "text": "Apa yang sebaiknya dilakukan sebelum menggunakan uang untuk jajan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli sesuai keinginan."
+      },
+      {
+        "key": "B",
+        "text": "Menentukan batas anggaran jajan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti pilihan teman."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh uang yang tersedia."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-032",
+    "questionNumber": 32,
+    "level": 11,
+    "category": "Spending Control",
+    "levelTitle": "Mengatur Anggaran Jajan",
+    "text": "Jika anggaran jajan hari ini sudah habis, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengambil uang tabungan."
+      },
+      {
+        "key": "B",
+        "text": "Meminjam uang teman."
+      },
+      {
+        "key": "C",
+        "text": "Menunda jajan sampai anggaran berikutnya."
+      },
+      {
+        "key": "D",
+        "text": "Tetap membeli makanan yang diinginkan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-033",
+    "questionNumber": 33,
+    "level": 11,
+    "category": "Spending Control",
+    "levelTitle": "Mengatur Anggaran Jajan",
+    "text": "Bagaimana cara menjaga pengeluaran jajan tetap terkendali?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli makanan berdasarkan keinginan."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti semua promo."
+      },
+      {
+        "key": "C",
+        "text": "Membuat batas pengeluaran harian."
+      },
+      {
+        "key": "D",
+        "text": "Tidak memperhatikan harga."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-034",
+    "questionNumber": 34,
+    "level": 12,
+    "category": "Spending Control",
+    "levelTitle": "Mengendalikan Keinginan Belanja",
+    "text": "Ketika ingin membeli barang yang tidak mendesak, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung membeli."
+      },
+      {
+        "key": "B",
+        "text": "Menunda pembelian dan mempertimbangkannya kembali."
+      },
+      {
+        "key": "C",
+        "text": "Meminjam uang."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang kebutuhan pokok."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-035",
+    "questionNumber": 35,
+    "level": 12,
+    "category": "Spending Control",
+    "levelTitle": "Mengendalikan Keinginan Belanja",
+    "text": "Berapa lama waktu yang bisa digunakan untuk mempertimbangkan pembelian yang tidak mendesak?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Beberapa detik."
+      },
+      {
+        "key": "B",
+        "text": "Sampai barang habis."
+      },
+      {
+        "key": "C",
+        "text": "Sekitar 24 jam atau lebih."
+      },
+      {
+        "key": "D",
+        "text": "Tidak perlu mempertimbangkan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-036",
+    "questionNumber": 36,
+    "level": 12,
+    "category": "Spending Control",
+    "levelTitle": "Mengendalikan Keinginan Belanja",
+    "text": "Apa manfaat menunda pembelian?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membantu menghindari keputusan impulsif."
+      },
+      {
+        "key": "B",
+        "text": "Membuat pengeluaran bertambah."
+      },
+      {
+        "key": "C",
+        "text": "Membuat semua barang menjadi murah."
+      },
+      {
+        "key": "D",
+        "text": "Menghilangkan kebutuhan menabung."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-037",
+    "questionNumber": 37,
+    "level": 13,
+    "category": "Spending Control",
+    "levelTitle": "Mengontrol Uang Harian",
+    "text": "Bagaimana cara mengontrol uang saat bepergian?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membawa seluruh uang yang dimiliki."
+      },
+      {
+        "key": "B",
+        "text": "Membawa uang sesuai anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang tanpa batas."
+      },
+      {
+        "key": "D",
+        "text": "Mengandalkan pinjaman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-038",
+    "questionNumber": 38,
+    "level": 13,
+    "category": "Spending Control",
+    "levelTitle": "Mengontrol Uang Harian",
+    "text": "Jika menemukan barang menarik saat bepergian, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung membeli."
+      },
+      {
+        "key": "B",
+        "text": "Membeli karena sedang berada di toko."
+      },
+      {
+        "key": "C",
+        "text": "Mempertimbangkan kebutuhan dan anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang untuk kebutuhan lain."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-039",
+    "questionNumber": 39,
+    "level": 13,
+    "category": "Spending Control",
+    "levelTitle": "Mengontrol Uang Harian",
+    "text": "Apa yang perlu dilakukan setelah selesai beraktivitas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa sisa uang dan mencatat pengeluaran."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan transaksi."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan sisa uang."
+      },
+      {
+        "key": "D",
+        "text": "Menghapus catatan transaksi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-040",
+    "questionNumber": 40,
+    "level": 14,
+    "category": "Spending Control",
+    "levelTitle": "Mengurangi Pengeluaran Tidak Penting",
+    "text": "Jika terlalu sering membeli minuman di luar, apa alternatif yang lebih hemat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli minuman yang lebih mahal."
+      },
+      {
+        "key": "B",
+        "text": "Membawa minuman sendiri dari rumah."
+      },
+      {
+        "key": "C",
+        "text": "Membeli dua minuman sekaligus."
+      },
+      {
+        "key": "D",
+        "text": "Tetap membeli tanpa batas."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-041",
+    "questionNumber": 41,
+    "level": 14,
+    "category": "Spending Control",
+    "levelTitle": "Mengurangi Pengeluaran Tidak Penting",
+    "text": "Ketika memiliki pilihan aktivitas mahal dan murah, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Selalu memilih yang mahal."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti pilihan teman."
+      },
+      {
+        "key": "C",
+        "text": "Memilih aktivitas sesuai anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Memaksakan diri mengikuti aktivitas mahal."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-042",
+    "questionNumber": 42,
+    "level": 14,
+    "category": "Spending Control",
+    "levelTitle": "Mengurangi Pengeluaran Tidak Penting",
+    "text": "Apa yang harus dilakukan terhadap pengeluaran yang tidak memberikan manfaat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempertahankannya."
+      },
+      {
+        "key": "B",
+        "text": "Menambah jumlahnya."
+      },
+      {
+        "key": "C",
+        "text": "Mengurangi atau menghentikannya."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikannya."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-043",
+    "questionNumber": 43,
+    "level": 15,
+    "category": "Spending Control",
+    "levelTitle": "Menghindari Pembelian Impulsif",
+    "text": "Apa yang dimaksud dengan pembelian impulsif?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli barang berdasarkan kebutuhan."
+      },
+      {
+        "key": "B",
+        "text": "Membeli secara spontan tanpa perencanaan."
+      },
+      {
+        "key": "C",
+        "text": "Membeli setelah membandingkan harga."
+      },
+      {
+        "key": "D",
+        "text": "Membeli berdasarkan daftar belanja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-044",
+    "questionNumber": 44,
+    "level": 15,
+    "category": "Spending Control",
+    "levelTitle": "Menghindari Pembelian Impulsif",
+    "text": "Ketika tergoda membeli barang karena iklan, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung checkout."
+      },
+      {
+        "key": "B",
+        "text": "Membeli karena banyak orang menggunakannya."
+      },
+      {
+        "key": "C",
+        "text": "Mempertimbangkan manfaat dan kebutuhan barang."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-045",
+    "questionNumber": 45,
+    "level": 15,
+    "category": "Spending Control",
+    "levelTitle": "Menghindari Pembelian Impulsif",
+    "text": "Apa tindakan yang tepat ketika ingin membeli sesuatu hanya karena sedang tren?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli agar tidak ketinggalan."
+      },
+      {
+        "key": "B",
+        "text": "Memastikan barang tersebut benar-benar dibutuhkan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti semua tren."
+      },
+      {
+        "key": "D",
+        "text": "Membeli menggunakan paylater."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-046",
+    "questionNumber": 46,
+    "level": 16,
+    "category": "Spending Control",
+    "levelTitle": "Perencanaan Belanja",
+    "text": "Apa yang sebaiknya dibuat sebelum pergi berbelanja?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Daftar kebutuhan dan anggaran."
+      },
+      {
+        "key": "B",
+        "text": "Daftar barang yang sedang tren."
+      },
+      {
+        "key": "C",
+        "text": "Daftar barang yang diinginkan."
+      },
+      {
+        "key": "D",
+        "text": "Daftar toko yang paling mahal."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-047",
+    "questionNumber": 47,
+    "level": 16,
+    "category": "Spending Control",
+    "levelTitle": "Perencanaan Belanja",
+    "text": "Ketika melihat barang di luar daftar belanja, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung membeli."
+      },
+      {
+        "key": "B",
+        "text": "Membeli karena terlihat menarik."
+      },
+      {
+        "key": "C",
+        "text": "Memeriksa kembali apakah barang tersebut diperlukan."
+      },
+      {
+        "key": "D",
+        "text": "Membeli sebanyak mungkin."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-048",
+    "questionNumber": 48,
+    "level": 16,
+    "category": "Spending Control",
+    "levelTitle": "Perencanaan Belanja",
+    "text": "Mengapa perlu menghitung total belanja sebelum membayar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar bisa menambah barang."
+      },
+      {
+        "key": "B",
+        "text": "Agar pengeluaran sesuai anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Agar bisa menggunakan seluruh uang."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu mencatat transaksi."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-049",
+    "questionNumber": 49,
+    "level": 17,
+    "category": "Spending Control",
+    "levelTitle": "Mengontrol Belanja Online",
+    "text": "Ketika melihat promo di aplikasi belanja, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli semua barang promo."
+      },
+      {
+        "key": "B",
+        "text": "Memeriksa apakah barang tersebut dibutuhkan."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan semua voucher."
+      },
+      {
+        "key": "D",
+        "text": "Checkout sebelum promo berakhir."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-050",
+    "questionNumber": 50,
+    "level": 17,
+    "category": "Spending Control",
+    "levelTitle": "Mengontrol Belanja Online",
+    "text": "Apa yang sebaiknya dilakukan terhadap barang di keranjang belanja yang sebenarnya tidak dibutuhkan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap checkout."
+      },
+      {
+        "key": "B",
+        "text": "Menambah jumlah barang."
+      },
+      {
+        "key": "C",
+        "text": "Menghapusnya dari keranjang."
+      },
+      {
+        "key": "D",
+        "text": "Membeli menggunakan pinjaman."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-051",
+    "questionNumber": 51,
+    "level": 17,
+    "category": "Spending Control",
+    "levelTitle": "Mengontrol Belanja Online",
+    "text": "Bagaimana cara membatasi belanja online?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membuka aplikasi setiap saat."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti seluruh rekomendasi produk."
+      },
+      {
+        "key": "C",
+        "text": "Menentukan batas belanja dan frekuensi pembelian."
+      },
+      {
+        "key": "D",
+        "text": "Mengaktifkan seluruh notifikasi promo."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-052",
+    "questionNumber": 52,
+    "level": 18,
+    "category": "Spending Control",
+    "levelTitle": "Mengelola Pengeluaran Hiburan",
+    "text": "Berapa sebaiknya anggaran hiburan yang digunakan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sesuai kemampuan setelah kebutuhan utama terpenuhi."
+      },
+      {
+        "key": "B",
+        "text": "Sebanyak mungkin."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang kebutuhan pokok."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tabungan darurat."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-053",
+    "questionNumber": 53,
+    "level": 18,
+    "category": "Spending Control",
+    "levelTitle": "Mengelola Pengeluaran Hiburan",
+    "text": "Jika teman mengajak pergi ke tempat yang melebihi anggaran, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memaksakan diri ikut."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan baik atau mengusulkan alternatif lebih hemat."
+      },
+      {
+        "key": "D",
+        "text": "Meminjam uang."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-054",
+    "questionNumber": 54,
+    "level": 18,
+    "category": "Spending Control",
+    "levelTitle": "Mengelola Pengeluaran Hiburan",
+    "text": "Bagaimana cara tetap menikmati hiburan dengan biaya terbatas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan kartu kredit."
+      },
+      {
+        "key": "B",
+        "text": "Memilih aktivitas yang sesuai anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan uang tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti semua ajakan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-055",
+    "questionNumber": 55,
+    "level": 19,
+    "category": "Spending Control",
+    "levelTitle": "Mengurangi Pengeluaran Berlebihan",
+    "text": "Jika pengeluaran minggu ini lebih besar dari minggu sebelumnya, apa yang perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikannya."
+      },
+      {
+        "key": "B",
+        "text": "Mengevaluasi penyebab peningkatan pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Menambah anggaran tanpa perhitungan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-056",
+    "questionNumber": 56,
+    "level": 19,
+    "category": "Spending Control",
+    "levelTitle": "Mengurangi Pengeluaran Berlebihan",
+    "text": "Apa cara yang tepat untuk menghemat pengeluaran jajan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengurangi frekuensi pembelian yang tidak diperlukan."
+      },
+      {
+        "key": "B",
+        "text": "Membeli makanan lebih banyak."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti semua promo makanan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang kebutuhan pokok."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-057",
+    "questionNumber": 57,
+    "level": 19,
+    "category": "Spending Control",
+    "levelTitle": "Mengurangi Pengeluaran Berlebihan",
+    "text": "Apa manfaat mencatat uang yang berhasil dihemat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengetahui hasil penghematan."
+      },
+      {
+        "key": "B",
+        "text": "Menambah keinginan belanja."
+      },
+      {
+        "key": "C",
+        "text": "Mengurangi pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Menghilangkan kebutuhan anggaran."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-058",
+    "questionNumber": 58,
+    "level": 20,
+    "category": "Spending Control",
+    "levelTitle": "Evaluasi Spending Control",
+    "text": "Apa yang perlu dilakukan setelah menjalankan anggaran selama satu minggu?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghapus anggaran."
+      },
+      {
+        "key": "B",
+        "text": "Mengevaluasi kesesuaian pengeluaran dengan anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan sisa uang."
+      },
+      {
+        "key": "D",
+        "text": "Menambah pengeluaran."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-059",
+    "questionNumber": 59,
+    "level": 20,
+    "category": "Spending Control",
+    "levelTitle": "Evaluasi Spending Control",
+    "text": "Jika berhasil mengurangi pembelian impulsif, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kembali berbelanja seperti biasa."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan perubahan."
+      },
+      {
+        "key": "C",
+        "text": "Mempertahankan kebiasaan tersebut."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang untuk belanja lebih banyak."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-060",
+    "questionNumber": 60,
+    "level": 20,
+    "category": "Spending Control",
+    "levelTitle": "Evaluasi Spending Control",
+    "text": "Apa indikator keberhasilan mengontrol pengeluaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jumlah barang yang dibeli semakin banyak."
+      },
+      {
+        "key": "B",
+        "text": "Pengeluaran sesuai anggaran dan kebutuhan."
+      },
+      {
+        "key": "C",
+        "text": "Uang habis sebelum waktunya."
+      },
+      {
+        "key": "D",
+        "text": "Semakin sering menggunakan pinjaman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-061",
+    "questionNumber": 61,
+    "level": 21,
+    "category": "Saving Habit",
+    "levelTitle": "Memulai Kebiasaan Menabung",
+    "text": "Apa langkah pertama untuk mulai menabung?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunggu memiliki uang banyak."
+      },
+      {
+        "key": "B",
+        "text": "Menentukan target dan nominal tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan seluruh uang terlebih dahulu."
+      },
+      {
+        "key": "D",
+        "text": "Menabung jika ada sisa saja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-062",
+    "questionNumber": 62,
+    "level": 21,
+    "category": "Saving Habit",
+    "levelTitle": "Memulai Kebiasaan Menabung",
+    "text": "Kapan waktu yang tepat untuk menyisihkan uang tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Setelah seluruh uang habis digunakan."
+      },
+      {
+        "key": "B",
+        "text": "Hanya ketika mendapatkan bonus."
+      },
+      {
+        "key": "C",
+        "text": "Saat menerima pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Ketika ingin membeli sesuatu."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-063",
+    "questionNumber": 63,
+    "level": 21,
+    "category": "Saving Habit",
+    "levelTitle": "Memulai Kebiasaan Menabung",
+    "text": "Apakah menabung harus dimulai dengan nominal besar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ya, agar cepat terkumpul."
+      },
+      {
+        "key": "B",
+        "text": "Tidak, dapat dimulai dari nominal kecil sesuai kemampuan."
+      },
+      {
+        "key": "C",
+        "text": "Ya, minimal setengah pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Tidak perlu menentukan nominal."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-064",
+    "questionNumber": 64,
+    "level": 22,
+    "category": "Saving Habit",
+    "levelTitle": "Konsistensi Menabung",
+    "text": "Bagaimana cara membangun kebiasaan menabung?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menabung hanya saat ingat."
+      },
+      {
+        "key": "B",
+        "text": "Menabung secara rutin sesuai jadwal."
+      },
+      {
+        "key": "C",
+        "text": "Menabung ketika uang tersisa banyak."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu uang tambahan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-065",
+    "questionNumber": 65,
+    "level": 22,
+    "category": "Saving Habit",
+    "levelTitle": "Konsistensi Menabung",
+    "text": "Jika lupa menabung sesuai jadwal, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Berhenti menabung."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang tabungan sebelumnya."
+      },
+      {
+        "key": "C",
+        "text": "Melanjutkan kebiasaan menabung pada kesempatan berikutnya."
+      },
+      {
+        "key": "D",
+        "text": "Menunda sampai bulan depan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-066",
+    "questionNumber": 66,
+    "level": 22,
+    "category": "Saving Habit",
+    "levelTitle": "Konsistensi Menabung",
+    "text": "Apa manfaat menentukan jadwal menabung?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membantu menjaga konsistensi."
+      },
+      {
+        "key": "B",
+        "text": "Membuat pengeluaran meningkat."
+      },
+      {
+        "key": "C",
+        "text": "Mengurangi jumlah pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Menghilangkan target keuangan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-067",
+    "questionNumber": 67,
+    "level": 23,
+    "category": "Saving Habit",
+    "levelTitle": "Menentukan Target Tabungan",
+    "text": "Target tabungan yang baik seharusnya seperti apa?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak memiliki batas waktu."
+      },
+      {
+        "key": "B",
+        "text": "Disesuaikan dengan kemampuan keuangan."
+      },
+      {
+        "key": "C",
+        "text": "Selalu lebih besar dari pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti target orang lain."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-068",
+    "questionNumber": 68,
+    "level": 23,
+    "category": "Saving Habit",
+    "levelTitle": "Menentukan Target Tabungan",
+    "text": "Jika ingin membeli laptop dalam enam bulan, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli sekarang menggunakan utang."
+      },
+      {
+        "key": "B",
+        "text": "Menunggu uang datang sendiri."
+      },
+      {
+        "key": "C",
+        "text": "Menghitung kebutuhan dana dan menyisihkannya secara berkala."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh uang jajan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-069",
+    "questionNumber": 69,
+    "level": 23,
+    "category": "Saving Habit",
+    "levelTitle": "Menentukan Target Tabungan",
+    "text": "Mengapa target tabungan perlu dicatat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar perkembangan dapat dipantau."
+      },
+      {
+        "key": "B",
+        "text": "Agar uang cepat habis."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu mengevaluasi."
+      },
+      {
+        "key": "D",
+        "text": "Agar bisa mengubah target setiap hari."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-070",
+    "questionNumber": 70,
+    "level": 24,
+    "category": "Saving Habit",
+    "levelTitle": "Mengatur Nominal Tabungan",
+    "text": "Bagaimana menentukan nominal tabungan bulanan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti nominal teman."
+      },
+      {
+        "key": "B",
+        "text": "Menyesuaikan dengan pemasukan dan kebutuhan."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan seluruh pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Mengambil dari dana kebutuhan pokok."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-071",
+    "questionNumber": 71,
+    "level": 24,
+    "category": "Saving Habit",
+    "levelTitle": "Mengatur Nominal Tabungan",
+    "text": "Jika pemasukan berkurang, apa yang sebaiknya dilakukan terhadap tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap memaksakan nominal yang sama meski kebutuhan pokok terganggu."
+      },
+      {
+        "key": "B",
+        "text": "Berhenti menabung selamanya."
+      },
+      {
+        "key": "C",
+        "text": "Menyesuaikan nominal tabungan dengan kondisi keuangan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan pinjaman untuk menabung."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-072",
+    "questionNumber": 72,
+    "level": 24,
+    "category": "Saving Habit",
+    "levelTitle": "Mengatur Nominal Tabungan",
+    "text": "Apa yang sebaiknya dilakukan ketika memiliki sisa uang dari anggaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskannya."
+      },
+      {
+        "key": "B",
+        "text": "Menambah tabungan jika kebutuhan sudah terpenuhi."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang yang tidak diperlukan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruhnya untuk hiburan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-073",
+    "questionNumber": 73,
+    "level": 25,
+    "category": "Saving Habit",
+    "levelTitle": "Menabung dari Penghematan",
+    "text": "Jika berhasil menghemat uang jajan, apa yang dapat dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan seluruhnya untuk belanja lain."
+      },
+      {
+        "key": "B",
+        "text": "Menyimpan sebagian uang tersebut."
+      },
+      {
+        "key": "C",
+        "text": "Meminjamkan tanpa perencanaan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikannya."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-074",
+    "questionNumber": 74,
+    "level": 25,
+    "category": "Saving Habit",
+    "levelTitle": "Menabung dari Penghematan",
+    "text": "Apa yang sebaiknya dilakukan ketika pengeluaran harian lebih rendah dari anggaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan sisa anggaran."
+      },
+      {
+        "key": "B",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Mengalokasikan sisa uang untuk tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang untuk belanja impulsif."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-075",
+    "questionNumber": 75,
+    "level": 25,
+    "category": "Saving Habit",
+    "levelTitle": "Menabung dari Penghematan",
+    "text": "Mengapa penghematan dapat membantu meningkatkan tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Karena mengurangi pengeluaran yang tidak diperlukan."
+      },
+      {
+        "key": "B",
+        "text": "Karena meningkatkan harga barang."
+      },
+      {
+        "key": "C",
+        "text": "Karena mengurangi pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Karena menghilangkan kebutuhan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-076",
+    "questionNumber": 76,
+    "level": 26,
+    "category": "Saving Habit",
+    "levelTitle": "Melindungi Tabungan",
+    "text": "Jika ingin membeli barang menggunakan uang tabungan, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung mengambil uang."
+      },
+      {
+        "key": "B",
+        "text": "Memastikan pembelian sesuai tujuan tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan seluruh tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan dana darurat."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-077",
+    "questionNumber": 77,
+    "level": 26,
+    "category": "Saving Habit",
+    "levelTitle": "Melindungi Tabungan",
+    "text": "Bagaimana cara menjaga uang tabungan agar tidak mudah digunakan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencampurnya dengan uang jajan."
+      },
+      {
+        "key": "B",
+        "text": "Memisahkan tabungan dari uang harian."
+      },
+      {
+        "key": "C",
+        "text": "Membawanya setiap saat."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakannya untuk belanja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-078",
+    "questionNumber": 78,
+    "level": 26,
+    "category": "Saving Habit",
+    "levelTitle": "Melindungi Tabungan",
+    "text": "Apa yang harus dilakukan jika tergoda menggunakan tabungan untuk keinginan sesaat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengambil seluruh tabungan."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan tujuan tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Mengingat kembali tujuan dan menunda pembelian."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang pinjaman."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-079",
+    "questionNumber": 79,
+    "level": 27,
+    "category": "Saving Habit",
+    "levelTitle": "Meningkatkan Tabungan",
+    "text": "Jika kondisi keuangan semakin baik, apa yang dapat dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meningkatkan nominal tabungan secara realistis."
+      },
+      {
+        "key": "B",
+        "text": "Menghabiskan seluruh pemasukan."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan anggaran tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Menambah pengeluaran konsumtif."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-080",
+    "questionNumber": 80,
+    "level": 27,
+    "category": "Saving Habit",
+    "levelTitle": "Meningkatkan Tabungan",
+    "text": "Apa yang perlu diperhatikan sebelum meningkatkan nominal tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tren tabungan teman."
+      },
+      {
+        "key": "B",
+        "text": "Kebutuhan dan kemampuan keuangan pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Keinginan membeli barang."
+      },
+      {
+        "key": "D",
+        "text": "Jumlah promo yang tersedia."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-081",
+    "questionNumber": 81,
+    "level": 27,
+    "category": "Saving Habit",
+    "levelTitle": "Meningkatkan Tabungan",
+    "text": "Bagaimana cara mengetahui perkembangan tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengandalkan ingatan."
+      },
+      {
+        "key": "B",
+        "text": "Memeriksa catatan dan saldo tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Menunggu akhir tahun."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan penambahan uang."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-082",
+    "questionNumber": 82,
+    "level": 28,
+    "category": "Saving Habit",
+    "levelTitle": "Memisahkan Tabungan",
+    "text": "Mengapa uang tabungan sebaiknya dipisahkan dari uang belanja?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar lebih mudah digunakan untuk jajan."
+      },
+      {
+        "key": "B",
+        "text": "Agar tujuan tabungan lebih terjaga."
+      },
+      {
+        "key": "C",
+        "text": "Agar pengeluaran bertambah."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu membuat anggaran."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-083",
+    "questionNumber": 83,
+    "level": 28,
+    "category": "Saving Habit",
+    "levelTitle": "Memisahkan Tabungan",
+    "text": "Apa fungsi tabungan khusus?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggabungkan seluruh pengeluaran."
+      },
+      {
+        "key": "B",
+        "text": "Membiayai pembelian spontan."
+      },
+      {
+        "key": "C",
+        "text": "Mengumpulkan uang untuk tujuan tertentu."
+      },
+      {
+        "key": "D",
+        "text": "Menggantikan pemasukan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-084",
+    "questionNumber": 84,
+    "level": 28,
+    "category": "Saving Habit",
+    "levelTitle": "Memisahkan Tabungan",
+    "text": "Jika memiliki beberapa tujuan tabungan, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan satu tabungan tanpa pencatatan."
+      },
+      {
+        "key": "B",
+        "text": "Memisahkan dan memberi target pada setiap tujuan."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan tabungan pertama."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan nominal yang terkumpul."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-085",
+    "questionNumber": 85,
+    "level": 29,
+    "category": "Saving Habit",
+    "levelTitle": "Mencapai Target Tabungan",
+    "text": "Jika target tabungan belum tercapai, apa yang perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerah."
+      },
+      {
+        "key": "B",
+        "text": "Mengevaluasi dan menyesuaikan strategi menabung."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang pinjaman."
+      },
+      {
+        "key": "D",
+        "text": "Menghilangkan seluruh target."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-086",
+    "questionNumber": 86,
+    "level": 29,
+    "category": "Saving Habit",
+    "levelTitle": "Mencapai Target Tabungan",
+    "text": "Apa cara terbaik untuk mengejar target tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "B",
+        "text": "Menentukan jumlah yang perlu disisihkan secara rutin."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan dana darurat."
+      },
+      {
+        "key": "D",
+        "text": "Berhenti mencatat."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-087",
+    "questionNumber": 87,
+    "level": 29,
+    "category": "Saving Habit",
+    "levelTitle": "Mencapai Target Tabungan",
+    "text": "Mengapa pencapaian target tabungan perlu dievaluasi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Untuk mengetahui kemajuan dan kekurangan."
+      },
+      {
+        "key": "B",
+        "text": "Agar bisa menggunakan uang sesuka hati."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu menabung lagi."
+      },
+      {
+        "key": "D",
+        "text": "Agar target terus berubah."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-088",
+    "questionNumber": 88,
+    "level": 30,
+    "category": "Saving Habit",
+    "levelTitle": "Evaluasi Saving Habit",
+    "text": "Apa yang sebaiknya dilakukan setelah berhasil mencapai target tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan seluruh tabungan."
+      },
+      {
+        "key": "B",
+        "text": "Membuat target berikutnya sesuai kemampuan."
+      },
+      {
+        "key": "C",
+        "text": "Berhenti mengatur uang."
+      },
+      {
+        "key": "D",
+        "text": "Menghilangkan kebiasaan menabung."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-089",
+    "questionNumber": 89,
+    "level": 30,
+    "category": "Saving Habit",
+    "levelTitle": "Evaluasi Saving Habit",
+    "text": "Apa indikator kebiasaan menabung yang baik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menabung hanya saat memiliki uang berlebih."
+      },
+      {
+        "key": "B",
+        "text": "Menabung secara konsisten sesuai kemampuan."
+      },
+      {
+        "key": "C",
+        "text": "Menabung tanpa tujuan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan tabungan untuk semua keinginan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-090",
+    "questionNumber": 90,
+    "level": 30,
+    "category": "Saving Habit",
+    "levelTitle": "Evaluasi Saving Habit",
+    "text": "Bagaimana cara mempertahankan kebiasaan menabung?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menentukan jadwal, target, dan mengevaluasi perkembangan."
+      },
+      {
+        "key": "B",
+        "text": "Menabung hanya ketika diingatkan."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang tabungan secara bebas."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan pencatatan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-091",
+    "questionNumber": 91,
+    "level": 31,
+    "category": "Financial Discipline",
+    "levelTitle": "Membuat Anggaran",
+    "text": "Apa langkah pertama membuat anggaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menentukan kebutuhan dan pemasukan."
+      },
+      {
+        "key": "B",
+        "text": "Membeli barang keinginan."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan uang."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti anggaran teman."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-092",
+    "questionNumber": 92,
+    "level": 31,
+    "category": "Financial Discipline",
+    "levelTitle": "Membuat Anggaran",
+    "text": "Jika anggaran sudah dibuat, apa yang harus dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikannya."
+      },
+      {
+        "key": "B",
+        "text": "Menjalankannya secara konsisten."
+      },
+      {
+        "key": "C",
+        "text": "Mengubahnya setiap hari."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan seluruh uang."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-093",
+    "questionNumber": 93,
+    "level": 31,
+    "category": "Financial Discipline",
+    "levelTitle": "Membuat Anggaran",
+    "text": "Apa tujuan anggaran keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membatasi seluruh kebutuhan."
+      },
+      {
+        "key": "B",
+        "text": "Menghilangkan tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Mengatur penggunaan uang agar lebih terarah."
+      },
+      {
+        "key": "D",
+        "text": "Meningkatkan pembelian."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-094",
+    "questionNumber": 94,
+    "level": 32,
+    "category": "Financial Discipline",
+    "levelTitle": "Memprioritaskan Kebutuhan",
+    "text": "Jika memiliki uang terbatas, apa yang harus didahulukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hiburan."
+      },
+      {
+        "key": "B",
+        "text": "Kebutuhan pokok."
+      },
+      {
+        "key": "C",
+        "text": "Barang bermerek."
+      },
+      {
+        "key": "D",
+        "text": "Keinginan pribadi."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-095",
+    "questionNumber": 95,
+    "level": 32,
+    "category": "Financial Discipline",
+    "levelTitle": "Memprioritaskan Kebutuhan",
+    "text": "Bagaimana menghadapi keinginan membeli barang ketika kebutuhan belum terpenuhi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap membeli."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang pinjaman."
+      },
+      {
+        "key": "C",
+        "text": "Menunda pembelian."
+      },
+      {
+        "key": "D",
+        "text": "Mengambil dana darurat."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-096",
+    "questionNumber": 96,
+    "level": 32,
+    "category": "Financial Discipline",
+    "levelTitle": "Memprioritaskan Kebutuhan",
+    "text": "Apa manfaat membuat daftar prioritas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memudahkan menentukan pengeluaran penting."
+      },
+      {
+        "key": "B",
+        "text": "Membuat pengeluaran bertambah."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan kebutuhan menabung."
+      },
+      {
+        "key": "D",
+        "text": "Mempermudah belanja impulsif."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-097",
+    "questionNumber": 97,
+    "level": 33,
+    "category": "Financial Discipline",
+    "levelTitle": "Mematuhi Anggaran",
+    "text": "Jika pengeluaran hampir mencapai batas anggaran, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "B",
+        "text": "Mengurangi pengeluaran yang tidak penting."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan anggaran."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-098",
+    "questionNumber": 98,
+    "level": 33,
+    "category": "Financial Discipline",
+    "levelTitle": "Mematuhi Anggaran",
+    "text": "Apa yang harus dilakukan jika pengeluaran melebihi anggaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikannya."
+      },
+      {
+        "key": "B",
+        "text": "Menambah utang."
+      },
+      {
+        "key": "C",
+        "text": "Mengevaluasi penyebab dan memperbaiki anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Berhenti mencatat."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-099",
+    "questionNumber": 99,
+    "level": 33,
+    "category": "Financial Discipline",
+    "levelTitle": "Mematuhi Anggaran",
+    "text": "Bagaimana cara menjaga kedisiplinan anggaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa pengeluaran secara berkala."
+      },
+      {
+        "key": "B",
+        "text": "Membeli sesuai keinginan."
+      },
+      {
+        "key": "C",
+        "text": "Menghindari pencatatan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh pemasukan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-100",
+    "questionNumber": 100,
+    "level": 34,
+    "category": "Financial Discipline",
+    "levelTitle": "Kedisiplinan Menabung",
+    "text": "Apa yang sebaiknya dilakukan ketika jadwal menabung tiba?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunda tanpa alasan."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang untuk hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Menyisihkan uang sesuai rencana."
+      },
+      {
+        "key": "D",
+        "text": "Menghapus target tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-101",
+    "questionNumber": 101,
+    "level": 34,
+    "category": "Financial Discipline",
+    "levelTitle": "Kedisiplinan Menabung",
+    "text": "Bagaimana menghadapi godaan menggunakan uang tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengambil sebagian besar tabungan."
+      },
+      {
+        "key": "B",
+        "text": "Mengingat tujuan tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan seluruh tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan kebiasaan menabung."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-102",
+    "questionNumber": 102,
+    "level": 34,
+    "category": "Financial Discipline",
+    "levelTitle": "Kedisiplinan Menabung",
+    "text": "Mengapa konsistensi lebih penting daripada nominal besar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Karena kebiasaan rutin membantu membangun tabungan."
+      },
+      {
+        "key": "B",
+        "text": "Karena nominal tidak perlu diperhitungkan."
+      },
+      {
+        "key": "C",
+        "text": "Karena tabungan tidak memiliki tujuan."
+      },
+      {
+        "key": "D",
+        "text": "Karena uang harus selalu dihabiskan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-103",
+    "questionNumber": 103,
+    "level": 35,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengelola Pemasukan",
+    "text": "Ketika menerima pemasukan, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan uang untuk keinginan."
+      },
+      {
+        "key": "B",
+        "text": "Menentukan alokasi kebutuhan, tabungan, dan hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang terlebih dahulu."
+      },
+      {
+        "key": "D",
+        "text": "Tidak membuat perencanaan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-104",
+    "questionNumber": 104,
+    "level": 35,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengelola Pemasukan",
+    "text": "Jika pemasukan tidak mencukupi kebutuhan, apa tindakan yang tepat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memaksakan gaya hidup."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan pinjaman konsumtif."
+      },
+      {
+        "key": "C",
+        "text": "Mengevaluasi kebutuhan dan mengurangi pengeluaran tidak penting."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan dana darurat untuk hiburan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-105",
+    "questionNumber": 105,
+    "level": 35,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengelola Pemasukan",
+    "text": "Apa yang perlu dilakukan setelah menerima pemasukan tambahan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengalokasikannya berdasarkan prioritas keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Menghabiskannya sekaligus."
+      },
+      {
+        "key": "C",
+        "text": "Membeli semua barang yang diinginkan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan kondisi keuangan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-106",
+    "questionNumber": 106,
+    "level": 36,
+    "category": "Financial Discipline",
+    "levelTitle": "Evaluasi Anggaran Mingguan",
+    "text": "Kapan sebaiknya anggaran mingguan dievaluasi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ketika uang habis saja."
+      },
+      {
+        "key": "B",
+        "text": "Secara berkala setelah periode anggaran selesai."
+      },
+      {
+        "key": "C",
+        "text": "Setiap satu tahun."
+      },
+      {
+        "key": "D",
+        "text": "Tidak perlu dievaluasi."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-107",
+    "questionNumber": 107,
+    "level": 36,
+    "category": "Financial Discipline",
+    "levelTitle": "Evaluasi Anggaran Mingguan",
+    "text": "Apa yang harus dilakukan jika ada pengeluaran tidak terduga?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikan kebutuhan lainnya."
+      },
+      {
+        "key": "B",
+        "text": "Menyesuaikan anggaran berdasarkan prioritas."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Menambah belanja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-108",
+    "questionNumber": 108,
+    "level": 36,
+    "category": "Financial Discipline",
+    "levelTitle": "Evaluasi Anggaran Mingguan",
+    "text": "Apa manfaat evaluasi mingguan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengetahui apakah penggunaan uang sesuai rencana."
+      },
+      {
+        "key": "B",
+        "text": "Menghilangkan target tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Meningkatkan pengeluaran."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari tanggung jawab keuangan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-109",
+    "questionNumber": 109,
+    "level": 37,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengontrol Pengeluaran Hiburan",
+    "text": "Bagaimana cara mengatur anggaran hiburan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan uang kebutuhan utama."
+      },
+      {
+        "key": "B",
+        "text": "Menentukan batas sesuai kemampuan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti pengeluaran teman."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh pemasukan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-110",
+    "questionNumber": 110,
+    "level": 37,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengontrol Pengeluaran Hiburan",
+    "text": "Jika anggaran hiburan telah habis, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengambil dana darurat."
+      },
+      {
+        "key": "B",
+        "text": "Meminjam uang."
+      },
+      {
+        "key": "C",
+        "text": "Menunda aktivitas hiburan berbayar."
+      },
+      {
+        "key": "D",
+        "text": "Tetap mengeluarkan uang."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-111",
+    "questionNumber": 111,
+    "level": 37,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengontrol Pengeluaran Hiburan",
+    "text": "Apa contoh hiburan hemat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Aktivitas gratis atau berbiaya rendah."
+      },
+      {
+        "key": "B",
+        "text": "Berbelanja setiap akhir pekan."
+      },
+      {
+        "key": "C",
+        "text": "Mengunjungi tempat mahal setiap hari."
+      },
+      {
+        "key": "D",
+        "text": "Membeli barang untuk mengikuti tren."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-112",
+    "questionNumber": 112,
+    "level": 38,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengelola Kewajiban",
+    "text": "Apa yang harus dilakukan terhadap tagihan yang sudah jatuh tempo?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikannya."
+      },
+      {
+        "key": "B",
+        "text": "Membayar sesuai kemampuan dan jadwal kewajiban."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang kebutuhan pokok tanpa perhitungan."
+      },
+      {
+        "key": "D",
+        "text": "Menambah pengeluaran."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-113",
+    "questionNumber": 113,
+    "level": 38,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengelola Kewajiban",
+    "text": "Mengapa kewajiban pembayaran perlu dicatat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar tidak terlambat dan terlewat."
+      },
+      {
+        "key": "B",
+        "text": "Agar bisa menambah utang."
+      },
+      {
+        "key": "C",
+        "text": "Agar pengeluaran tidak terpantau."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu membuat anggaran."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-114",
+    "questionNumber": 114,
+    "level": 38,
+    "category": "Financial Discipline",
+    "levelTitle": "Mengelola Kewajiban",
+    "text": "Jika memiliki beberapa tagihan, apa yang perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membayar secara acak."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan sebagian tagihan."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun prioritas berdasarkan jatuh tempo dan kewajiban."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tabungan tanpa perhitungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-115",
+    "questionNumber": 115,
+    "level": 39,
+    "category": "Financial Discipline",
+    "levelTitle": "Disiplin Jangka Menengah",
+    "text": "Apa yang sebaiknya dilakukan untuk menjaga anggaran selama dua minggu?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa pengeluaran secara rutin."
+      },
+      {
+        "key": "B",
+        "text": "Mengubah anggaran tanpa alasan."
+      },
+      {
+        "key": "C",
+        "text": "Berhenti mencatat."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tanpa batas."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-116",
+    "questionNumber": 116,
+    "level": 39,
+    "category": "Financial Discipline",
+    "levelTitle": "Disiplin Jangka Menengah",
+    "text": "Jika gagal mematuhi anggaran, apa tindakan terbaik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerah mengatur keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Mengidentifikasi penyebab dan memperbaiki kebiasaan."
+      },
+      {
+        "key": "C",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan kesalahan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-117",
+    "questionNumber": 117,
+    "level": 39,
+    "category": "Financial Discipline",
+    "levelTitle": "Disiplin Jangka Menengah",
+    "text": "Apa indikator disiplin finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Selalu membeli barang baru."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang tanpa perencanaan."
+      },
+      {
+        "key": "C",
+        "text": "Menjalankan anggaran dan kewajiban secara konsisten."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan pemasukan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-118",
+    "questionNumber": 118,
+    "level": 40,
+    "category": "Financial Discipline",
+    "levelTitle": "Evaluasi Financial Discipline",
+    "text": "Apa yang perlu dievaluasi setelah menjalankan anggaran selama dua minggu?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kesesuaian pengeluaran, tabungan, dan rencana."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah barang yang dibeli."
+      },
+      {
+        "key": "C",
+        "text": "Banyaknya promo yang digunakan."
+      },
+      {
+        "key": "D",
+        "text": "Jumlah uang yang dihabiskan untuk hiburan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-119",
+    "questionNumber": 119,
+    "level": 40,
+    "category": "Financial Discipline",
+    "levelTitle": "Evaluasi Financial Discipline",
+    "text": "Bagaimana cara meningkatkan disiplin keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghindari pencatatan."
+      },
+      {
+        "key": "B",
+        "text": "Membuat kebiasaan rutin dan mengevaluasinya."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti semua keinginan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-120",
+    "questionNumber": 120,
+    "level": 40,
+    "category": "Financial Discipline",
+    "levelTitle": "Evaluasi Financial Discipline",
+    "text": "Apa tujuan utama disiplin keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membatasi seluruh aktivitas."
+      },
+      {
+        "key": "B",
+        "text": "Menghilangkan hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Menjaga penggunaan uang tetap sesuai prioritas dan tujuan."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan pemasukan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-121",
+    "questionNumber": 121,
+    "level": 41,
+    "category": "Smart Spending",
+    "levelTitle": "Membandingkan Harga",
+    "text": "Apa yang sebaiknya dilakukan sebelum membeli barang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membandingkan harga dari beberapa penjual."
+      },
+      {
+        "key": "B",
+        "text": "Membeli di toko pertama."
+      },
+      {
+        "key": "C",
+        "text": "Memilih harga paling mahal."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti pilihan teman."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-122",
+    "questionNumber": 122,
+    "level": 41,
+    "category": "Smart Spending",
+    "levelTitle": "Membandingkan Harga",
+    "text": "Jika menemukan produk serupa dengan harga berbeda, apa yang perlu diperhatikan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hanya mereknya."
+      },
+      {
+        "key": "B",
+        "text": "Harga, kualitas, dan manfaat produk."
+      },
+      {
+        "key": "C",
+        "text": "Kemasan saja."
+      },
+      {
+        "key": "D",
+        "text": "Jumlah iklan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-123",
+    "questionNumber": 123,
+    "level": 41,
+    "category": "Smart Spending",
+    "levelTitle": "Membandingkan Harga",
+    "text": "Apa tujuan membandingkan harga?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan lebih banyak uang."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti tren belanja."
+      },
+      {
+        "key": "C",
+        "text": "Mendapatkan produk sesuai kebutuhan dan kemampuan."
+      },
+      {
+        "key": "D",
+        "text": "Membeli semua pilihan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-124",
+    "questionNumber": 124,
+    "level": 42,
+    "category": "Smart Spending",
+    "levelTitle": "Mempertimbangkan Kualitas",
+    "text": "Mengapa kualitas barang perlu diperhatikan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar barang dapat digunakan sesuai kebutuhan dan lebih tahan lama."
+      },
+      {
+        "key": "B",
+        "text": "Agar harga selalu mahal."
+      },
+      {
+        "key": "C",
+        "text": "Agar bisa membeli lebih banyak."
+      },
+      {
+        "key": "D",
+        "text": "Agar mengikuti tren."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-125",
+    "questionNumber": 125,
+    "level": 42,
+    "category": "Smart Spending",
+    "levelTitle": "Mempertimbangkan Kualitas",
+    "text": "Jika ada dua produk dengan fungsi sama, apa yang sebaiknya dipilih?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Produk paling mahal."
+      },
+      {
+        "key": "B",
+        "text": "Produk dengan manfaat dan kualitas sesuai anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Produk yang paling populer."
+      },
+      {
+        "key": "D",
+        "text": "Produk dengan iklan terbanyak."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-126",
+    "questionNumber": 126,
+    "level": 42,
+    "category": "Smart Spending",
+    "levelTitle": "Mempertimbangkan Kualitas",
+    "text": "Apa yang harus dilakukan sebelum membeli barang elektronik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli tanpa pemeriksaan."
+      },
+      {
+        "key": "B",
+        "text": "Memilih berdasarkan warna."
+      },
+      {
+        "key": "C",
+        "text": "Memeriksa spesifikasi, kebutuhan, dan garansi."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti rekomendasi influencer saja."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-127",
+    "questionNumber": 127,
+    "level": 43,
+    "category": "Smart Spending",
+    "levelTitle": "Belanja Sesuai Kebutuhan",
+    "text": "Apa yang perlu dilakukan sebelum berbelanja?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membuat daftar kebutuhan."
+      },
+      {
+        "key": "B",
+        "text": "Membeli barang sebanyak mungkin."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti semua promo."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh uang."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-128",
+    "questionNumber": 128,
+    "level": 43,
+    "category": "Smart Spending",
+    "levelTitle": "Belanja Sesuai Kebutuhan",
+    "text": "Jika menemukan barang menarik di luar daftar, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung membeli."
+      },
+      {
+        "key": "B",
+        "text": "Mempertimbangkan apakah barang tersebut benar-benar diperlukan."
+      },
+      {
+        "key": "C",
+        "text": "Membeli karena diskon."
+      },
+      {
+        "key": "D",
+        "text": "Menambah jumlah belanja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-129",
+    "questionNumber": 129,
+    "level": 43,
+    "category": "Smart Spending",
+    "levelTitle": "Belanja Sesuai Kebutuhan",
+    "text": "Bagaimana cara menghindari pembelian berulang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli setiap ada promo."
+      },
+      {
+        "key": "B",
+        "text": "Tidak memeriksa barang yang dimiliki."
+      },
+      {
+        "key": "C",
+        "text": "Memeriksa persediaan sebelum berbelanja."
+      },
+      {
+        "key": "D",
+        "text": "Membeli dalam jumlah sebanyak mungkin."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-130",
+    "questionNumber": 130,
+    "level": 44,
+    "category": "Smart Spending",
+    "levelTitle": "Menghadapi Tren Konsumtif",
+    "text": "Ketika teman membeli barang yang sedang tren, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung mengikuti."
+      },
+      {
+        "key": "B",
+        "text": "Membeli dengan uang pinjaman."
+      },
+      {
+        "key": "C",
+        "text": "Mempertimbangkan kebutuhan pribadi terlebih dahulu."
+      },
+      {
+        "key": "D",
+        "text": "Membeli agar tidak tertinggal."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-131",
+    "questionNumber": 131,
+    "level": 44,
+    "category": "Smart Spending",
+    "levelTitle": "Menghadapi Tren Konsumtif",
+    "text": "Mengapa tidak perlu mengikuti semua tren?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Karena tren selalu buruk."
+      },
+      {
+        "key": "B",
+        "text": "Karena kebutuhan dan kemampuan setiap orang berbeda."
+      },
+      {
+        "key": "C",
+        "text": "Karena semua barang mahal."
+      },
+      {
+        "key": "D",
+        "text": "Karena belanja tidak diperbolehkan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-132",
+    "questionNumber": 132,
+    "level": 44,
+    "category": "Smart Spending",
+    "levelTitle": "Menghadapi Tren Konsumtif",
+    "text": "Jika ingin membeli barang karena pengaruh media sosial, apa tindakan yang tepat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli langsung."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan paylater."
+      },
+      {
+        "key": "C",
+        "text": "Menilai manfaat dan kesesuaian dengan anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Membeli karena banyak komentar positif."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-133",
+    "questionNumber": 133,
+    "level": 45,
+    "category": "Smart Spending",
+    "levelTitle": "Memanfaatkan Promo dengan Bijak",
+    "text": "Kapan diskon dapat dianggap menguntungkan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ketika barang memang dibutuhkan dan sesuai anggaran."
+      },
+      {
+        "key": "B",
+        "text": "Setiap kali ada potongan harga."
+      },
+      {
+        "key": "C",
+        "text": "Ketika membeli barang sebanyak mungkin."
+      },
+      {
+        "key": "D",
+        "text": "Ketika menggunakan seluruh uang."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-134",
+    "questionNumber": 134,
+    "level": 45,
+    "category": "Smart Spending",
+    "levelTitle": "Memanfaatkan Promo dengan Bijak",
+    "text": "Apa yang sebaiknya dilakukan ketika mendapatkan voucher belanja?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakannya untuk barang apa pun."
+      },
+      {
+        "key": "B",
+        "text": "Memeriksa syarat dan kebutuhan sebelum menggunakannya."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang tambahan."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan uang untuk memenuhi minimum transaksi."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-135",
+    "questionNumber": 135,
+    "level": 45,
+    "category": "Smart Spending",
+    "levelTitle": "Memanfaatkan Promo dengan Bijak",
+    "text": "Apa kesalahan umum ketika menggunakan promo?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membandingkan harga."
+      },
+      {
+        "key": "B",
+        "text": "Membaca ketentuan."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang yang tidak diperlukan hanya karena diskon."
+      },
+      {
+        "key": "D",
+        "text": "Memeriksa anggaran."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-136",
+    "questionNumber": 136,
+    "level": 46,
+    "category": "Smart Spending",
+    "levelTitle": "Memahami Risiko Paylater",
+    "text": "Apa yang perlu diperhatikan sebelum menggunakan paylater?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Besarnya limit."
+      },
+      {
+        "key": "B",
+        "text": "Kemampuan membayar, bunga, biaya, dan jatuh tempo."
+      },
+      {
+        "key": "C",
+        "text": "Banyaknya promo."
+      },
+      {
+        "key": "D",
+        "text": "Kemudahan checkout."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-137",
+    "questionNumber": 137,
+    "level": 46,
+    "category": "Smart Spending",
+    "levelTitle": "Memahami Risiko Paylater",
+    "text": "Apa risiko menggunakan paylater untuk keinginan konsumtif?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pengeluaran dan kewajiban pembayaran dapat meningkat."
+      },
+      {
+        "key": "B",
+        "text": "Tabungan otomatis bertambah."
+      },
+      {
+        "key": "C",
+        "text": "Harga barang selalu turun."
+      },
+      {
+        "key": "D",
+        "text": "Pemasukan meningkat."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-138",
+    "questionNumber": 138,
+    "level": 46,
+    "category": "Smart Spending",
+    "levelTitle": "Memahami Risiko Paylater",
+    "text": "Jika tidak memiliki kemampuan membayar cicilan, apa keputusan terbaik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap mengambil cicilan."
+      },
+      {
+        "key": "B",
+        "text": "Meminjam uang lain."
+      },
+      {
+        "key": "C",
+        "text": "Menunda pembelian."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan dana darurat."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-139",
+    "questionNumber": 139,
+    "level": 47,
+    "category": "Smart Spending",
+    "levelTitle": "Keputusan Belanja Mandiri",
+    "text": "Jika teman mengajak membeli barang mahal, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti agar tidak berbeda."
+      },
+      {
+        "key": "B",
+        "text": "Mempertimbangkan kondisi keuangan pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Meminjam uang."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-140",
+    "questionNumber": 140,
+    "level": 47,
+    "category": "Smart Spending",
+    "levelTitle": "Keputusan Belanja Mandiri",
+    "text": "Apa dasar keputusan belanja yang sehat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tekanan sosial."
+      },
+      {
+        "key": "B",
+        "text": "Tren."
+      },
+      {
+        "key": "C",
+        "text": "Kebutuhan, manfaat, dan kemampuan finansial."
+      },
+      {
+        "key": "D",
+        "text": "Rekomendasi orang lain saja."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-141",
+    "questionNumber": 141,
+    "level": 47,
+    "category": "Smart Spending",
+    "levelTitle": "Keputusan Belanja Mandiri",
+    "text": "Jika barang yang diinginkan belum terjangkau, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memaksakan pembelian."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan utang konsumtif."
+      },
+      {
+        "key": "C",
+        "text": "Menabung dan merencanakan pembelian."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang kebutuhan pokok."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-142",
+    "questionNumber": 142,
+    "level": 48,
+    "category": "Smart Spending",
+    "levelTitle": "Mengevaluasi Manfaat Barang",
+    "text": "Apa yang perlu dipertimbangkan sebelum membeli barang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Frekuensi penggunaan dan manfaatnya."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah iklan."
+      },
+      {
+        "key": "C",
+        "text": "Popularitas merek saja."
+      },
+      {
+        "key": "D",
+        "text": "Tren saat ini."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-143",
+    "questionNumber": 143,
+    "level": 48,
+    "category": "Smart Spending",
+    "levelTitle": "Mengevaluasi Manfaat Barang",
+    "text": "Jika barang yang dimiliki masih berfungsi dengan baik, apa tindakan yang tepat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengganti karena bosan."
+      },
+      {
+        "key": "B",
+        "text": "Membeli barang baru."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan barang yang ada terlebih dahulu."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti tren terbaru."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-144",
+    "questionNumber": 144,
+    "level": 48,
+    "category": "Smart Spending",
+    "levelTitle": "Mengevaluasi Manfaat Barang",
+    "text": "Apa manfaat mempertimbangkan umur pemakaian barang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membantu memperkirakan nilai dan biaya penggunaan."
+      },
+      {
+        "key": "B",
+        "text": "Membuat pengeluaran tidak terkontrol."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan kebutuhan anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Menambah keinginan belanja."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-145",
+    "questionNumber": 145,
+    "level": 49,
+    "category": "Smart Spending",
+    "levelTitle": "Belanja Efisien",
+    "text": "Bagaimana cara merencanakan belanja mingguan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli tanpa daftar."
+      },
+      {
+        "key": "B",
+        "text": "Menyusun kebutuhan dan menentukan anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti semua promo."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-146",
+    "questionNumber": 146,
+    "level": 49,
+    "category": "Smart Spending",
+    "levelTitle": "Belanja Efisien",
+    "text": "Apa yang harus dilakukan untuk menghindari pembelian barang yang sama berulang kali?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa stok barang di rumah."
+      },
+      {
+        "key": "B",
+        "text": "Membeli setiap minggu."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti rekomendasi toko."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan persediaan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-147",
+    "questionNumber": 147,
+    "level": 49,
+    "category": "Smart Spending",
+    "levelTitle": "Belanja Efisien",
+    "text": "Bagaimana cara menilai penghematan dari belanja?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghitung selisih antara anggaran dan pengeluaran aktual."
+      },
+      {
+        "key": "B",
+        "text": "Menghitung jumlah barang."
+      },
+      {
+        "key": "C",
+        "text": "Menghitung jumlah toko."
+      },
+      {
+        "key": "D",
+        "text": "Menghitung banyaknya promo."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-148",
+    "questionNumber": 148,
+    "level": 50,
+    "category": "Smart Spending",
+    "levelTitle": "Evaluasi Smart Spending",
+    "text": "Apa indikator belanja yang bijak?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Selalu membeli barang diskon."
+      },
+      {
+        "key": "B",
+        "text": "Membeli sesuai kebutuhan dan kemampuan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti seluruh tren."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh pemasukan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-149",
+    "questionNumber": 149,
+    "level": 50,
+    "category": "Smart Spending",
+    "levelTitle": "Evaluasi Smart Spending",
+    "text": "Apa yang sebaiknya dilakukan setelah mengevaluasi kebiasaan belanja?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengulangi pembelian impulsif."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan hasil evaluasi."
+      },
+      {
+        "key": "C",
+        "text": "Mempertahankan keputusan belanja yang sehat."
+      },
+      {
+        "key": "D",
+        "text": "Menambah pengeluaran."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-150",
+    "questionNumber": 150,
+    "level": 50,
+    "category": "Smart Spending",
+    "levelTitle": "Evaluasi Smart Spending",
+    "text": "Apa tujuan utama smart spending?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli sebanyak mungkin barang."
+      },
+      {
+        "key": "B",
+        "text": "Menghabiskan uang secara efisien untuk kebutuhan dan tujuan."
+      },
+      {
+        "key": "C",
+        "text": "Selalu mencari barang termurah."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari seluruh aktivitas belanja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-151",
+    "questionNumber": 151,
+    "level": 51,
+    "category": "Financial Planning",
+    "levelTitle": "Menyusun Rencana Bulanan",
+    "text": "Apa langkah pertama menyusun rencana keuangan bulanan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghitung pemasukan dan kebutuhan."
+      },
+      {
+        "key": "B",
+        "text": "Membeli barang keinginan."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan uang."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti gaya hidup orang lain."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-152",
+    "questionNumber": 152,
+    "level": 51,
+    "category": "Financial Planning",
+    "levelTitle": "Menyusun Rencana Bulanan",
+    "text": "Apa yang harus dimasukkan dalam anggaran bulanan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kebutuhan, tabungan, kewajiban, dan hiburan."
+      },
+      {
+        "key": "B",
+        "text": "Keinginan saja."
+      },
+      {
+        "key": "C",
+        "text": "Belanja online saja."
+      },
+      {
+        "key": "D",
+        "text": "Pengeluaran hiburan saja."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-153",
+    "questionNumber": 153,
+    "level": 51,
+    "category": "Financial Planning",
+    "levelTitle": "Menyusun Rencana Bulanan",
+    "text": "Jika rencana keuangan tidak sesuai kondisi aktual, apa yang dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikannya."
+      },
+      {
+        "key": "B",
+        "text": "Menyesuaikan rencana berdasarkan kondisi keuangan."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Berhenti membuat anggaran."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-154",
+    "questionNumber": 154,
+    "level": 52,
+    "category": "Financial Planning",
+    "levelTitle": "Mengelompokkan Kebutuhan",
+    "text": "Apa contoh pengeluaran tetap?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Belanja impulsif."
+      },
+      {
+        "key": "B",
+        "text": "Biaya sewa tempat tinggal bulanan."
+      },
+      {
+        "key": "C",
+        "text": "Jajan tambahan."
+      },
+      {
+        "key": "D",
+        "text": "Belanja karena promo."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-155",
+    "questionNumber": 155,
+    "level": 52,
+    "category": "Financial Planning",
+    "levelTitle": "Mengelompokkan Kebutuhan",
+    "text": "Apa contoh pengeluaran variabel?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cicilan tetap."
+      },
+      {
+        "key": "B",
+        "text": "Biaya langganan tetap."
+      },
+      {
+        "key": "C",
+        "text": "Pengeluaran makan dan transportasi yang berubah sesuai pemakaian."
+      },
+      {
+        "key": "D",
+        "text": "Biaya sewa bulanan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-156",
+    "questionNumber": 156,
+    "level": 52,
+    "category": "Financial Planning",
+    "levelTitle": "Mengelompokkan Kebutuhan",
+    "text": "Mengapa pengeluaran perlu dikelompokkan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar mudah mengatur dan mengevaluasi anggaran."
+      },
+      {
+        "key": "B",
+        "text": "Agar pengeluaran bertambah."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu menabung."
+      },
+      {
+        "key": "D",
+        "text": "Agar seluruh uang digunakan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-157",
+    "questionNumber": 157,
+    "level": 53,
+    "category": "Financial Planning",
+    "levelTitle": "Target Keuangan Jangka Pendek",
+    "text": "Apa contoh target keuangan jangka pendek?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli rumah dalam 20 tahun."
+      },
+      {
+        "key": "B",
+        "text": "Menabung untuk membeli sepatu dalam tiga bulan."
+      },
+      {
+        "key": "C",
+        "text": "Pensiun dalam 30 tahun."
+      },
+      {
+        "key": "D",
+        "text": "Membangun bisnis dalam 15 tahun."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-158",
+    "questionNumber": 158,
+    "level": 53,
+    "category": "Financial Planning",
+    "levelTitle": "Target Keuangan Jangka Pendek",
+    "text": "Apa yang harus dilakukan agar target keuangan tercapai?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menentukan nominal dan batas waktu."
+      },
+      {
+        "key": "B",
+        "text": "Menunggu uang tambahan."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang tanpa perencanaan."
+      },
+      {
+        "key": "D",
+        "text": "Mengubah target setiap hari."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-159",
+    "questionNumber": 159,
+    "level": 53,
+    "category": "Financial Planning",
+    "levelTitle": "Target Keuangan Jangka Pendek",
+    "text": "Jika target belum tercapai sesuai waktu, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan pinjaman."
+      },
+      {
+        "key": "B",
+        "text": "Menyerah."
+      },
+      {
+        "key": "C",
+        "text": "Mengevaluasi kemampuan dan menyesuaikan target."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-160",
+    "questionNumber": 160,
+    "level": 54,
+    "category": "Financial Planning",
+    "levelTitle": "Mengatur Dana Bulanan",
+    "text": "Apa yang sebaiknya dilakukan ketika menerima pemasukan bulanan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan seluruh uang untuk kebutuhan konsumtif."
+      },
+      {
+        "key": "B",
+        "text": "Membagi pemasukan sesuai alokasi anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang terlebih dahulu."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan kebutuhan rutin."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-161",
+    "questionNumber": 161,
+    "level": 54,
+    "category": "Financial Planning",
+    "levelTitle": "Mengatur Dana Bulanan",
+    "text": "Mengapa perlu menyediakan anggaran untuk kebutuhan tidak terduga?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar siap menghadapi pengeluaran mendadak."
+      },
+      {
+        "key": "B",
+        "text": "Agar bisa berbelanja lebih banyak."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu menabung."
+      },
+      {
+        "key": "D",
+        "text": "Agar pemasukan bertambah."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-162",
+    "questionNumber": 162,
+    "level": 54,
+    "category": "Financial Planning",
+    "levelTitle": "Mengatur Dana Bulanan",
+    "text": "Jika biaya kebutuhan meningkat, apa yang harus dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikan perubahan."
+      },
+      {
+        "key": "B",
+        "text": "Menambah belanja."
+      },
+      {
+        "key": "C",
+        "text": "Meninjau ulang dan menyesuaikan alokasi anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Menghapus seluruh tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-163",
+    "questionNumber": 163,
+    "level": 55,
+    "category": "Financial Planning",
+    "levelTitle": "Menentukan Prioritas Jangka Menengah",
+    "text": "Apa contoh target keuangan jangka menengah?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli makanan hari ini."
+      },
+      {
+        "key": "B",
+        "text": "Menabung untuk membeli laptop dalam satu tahun."
+      },
+      {
+        "key": "C",
+        "text": "Membeli minuman besok."
+      },
+      {
+        "key": "D",
+        "text": "Membayar parkir."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-164",
+    "questionNumber": 164,
+    "level": 55,
+    "category": "Financial Planning",
+    "levelTitle": "Menentukan Prioritas Jangka Menengah",
+    "text": "Bagaimana cara mencapai target jangka menengah?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menabung secara bertahap dan konsisten."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan seluruh pemasukan."
+      },
+      {
+        "key": "C",
+        "text": "Mengandalkan pinjaman."
+      },
+      {
+        "key": "D",
+        "text": "Menunda perencanaan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-165",
+    "questionNumber": 165,
+    "level": 55,
+    "category": "Financial Planning",
+    "levelTitle": "Menentukan Prioritas Jangka Menengah",
+    "text": "Jika memiliki beberapa target, bagaimana menentukan prioritas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memilih target yang sedang tren."
+      },
+      {
+        "key": "B",
+        "text": "Memilih target berdasarkan kebutuhan, urgensi, dan kemampuan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti pilihan teman."
+      },
+      {
+        "key": "D",
+        "text": "Memilih target dengan harga paling mahal."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-166",
+    "questionNumber": 166,
+    "level": 56,
+    "category": "Financial Planning",
+    "levelTitle": "Membagi Alokasi Keuangan",
+    "text": "Mengapa pemasukan perlu dibagi ke beberapa kategori?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar penggunaan uang lebih terstruktur."
+      },
+      {
+        "key": "B",
+        "text": "Agar seluruh uang cepat habis."
+      },
+      {
+        "key": "C",
+        "text": "Agar kebutuhan tidak terpenuhi."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu mengevaluasi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-167",
+    "questionNumber": 167,
+    "level": 56,
+    "category": "Financial Planning",
+    "levelTitle": "Membagi Alokasi Keuangan",
+    "text": "Jika anggaran hiburan terlalu besar, apa yang perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menambahnya lagi."
+      },
+      {
+        "key": "B",
+        "text": "Mengurangi alokasi hiburan dan mengutamakan kebutuhan."
+      },
+      {
+        "key": "C",
+        "text": "Mengambil dana darurat."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang pinjaman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-168",
+    "questionNumber": 168,
+    "level": 56,
+    "category": "Financial Planning",
+    "levelTitle": "Membagi Alokasi Keuangan",
+    "text": "Bagaimana menentukan alokasi tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyesuaikan kemampuan setelah memperhitungkan kebutuhan dan kewajiban."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan seluruh pemasukan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti nominal teman."
+      },
+      {
+        "key": "D",
+        "text": "Menabung hanya jika ada sisa."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-169",
+    "questionNumber": 169,
+    "level": 57,
+    "category": "Financial Planning",
+    "levelTitle": "Merencanakan Kebutuhan Tahunan",
+    "text": "Apa contoh pengeluaran tahunan yang perlu direncanakan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pembelian makanan harian."
+      },
+      {
+        "key": "B",
+        "text": "Biaya pendidikan atau perpanjangan pajak kendaraan."
+      },
+      {
+        "key": "C",
+        "text": "Jajan sore."
+      },
+      {
+        "key": "D",
+        "text": "Pembelian minuman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-170",
+    "questionNumber": 170,
+    "level": 57,
+    "category": "Financial Planning",
+    "levelTitle": "Merencanakan Kebutuhan Tahunan",
+    "text": "Bagaimana mempersiapkan kebutuhan tahunan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunggu sampai waktu pembayaran."
+      },
+      {
+        "key": "B",
+        "text": "Menyisihkan uang secara berkala."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan seluruh tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Mengandalkan pinjaman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-171",
+    "questionNumber": 171,
+    "level": 57,
+    "category": "Financial Planning",
+    "levelTitle": "Merencanakan Kebutuhan Tahunan",
+    "text": "Apa manfaat merencanakan pengeluaran tahunan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengurangi risiko pengeluaran mendadak."
+      },
+      {
+        "key": "B",
+        "text": "Meningkatkan belanja impulsif."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan kebutuhan anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Menambah kewajiban utang."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-172",
+    "questionNumber": 172,
+    "level": 58,
+    "category": "Financial Planning",
+    "levelTitle": "Merencanakan Pembelian Besar",
+    "text": "Jika ingin membeli laptop dengan harga tinggi, apa langkah terbaik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung membeli dengan uang pinjaman."
+      },
+      {
+        "key": "B",
+        "text": "Menyusun target tabungan dan anggaran pembelian."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan dana darurat."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan seluruh pemasukan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-173",
+    "questionNumber": 173,
+    "level": 58,
+    "category": "Financial Planning",
+    "levelTitle": "Merencanakan Pembelian Besar",
+    "text": "Apa yang harus diperhatikan sebelum membeli barang bernilai besar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Harga, manfaat, kemampuan membayar, dan kebutuhan."
+      },
+      {
+        "key": "B",
+        "text": "Popularitas merek saja."
+      },
+      {
+        "key": "C",
+        "text": "Jumlah iklan."
+      },
+      {
+        "key": "D",
+        "text": "Tren media sosial."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-174",
+    "questionNumber": 174,
+    "level": 58,
+    "category": "Financial Planning",
+    "levelTitle": "Merencanakan Pembelian Besar",
+    "text": "Jika pembelian besar belum sesuai kemampuan, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memaksakan pembelian."
+      },
+      {
+        "key": "B",
+        "text": "Mengambil pinjaman konsumtif."
+      },
+      {
+        "key": "C",
+        "text": "Menunda dan melanjutkan perencanaan tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang kebutuhan pokok."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-175",
+    "questionNumber": 175,
+    "level": 59,
+    "category": "Financial Planning",
+    "levelTitle": "Evaluasi Perencanaan",
+    "text": "Apa yang perlu dilakukan setiap akhir bulan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membandingkan anggaran dengan pengeluaran aktual."
+      },
+      {
+        "key": "B",
+        "text": "Menghapus catatan."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan sisa uang."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan target."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-176",
+    "questionNumber": 176,
+    "level": 59,
+    "category": "Financial Planning",
+    "levelTitle": "Evaluasi Perencanaan",
+    "text": "Jika target keuangan tidak tercapai, apa yang harus dievaluasi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Penyebab pengeluaran dan strategi pencapaian target."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah barang yang dibeli teman."
+      },
+      {
+        "key": "C",
+        "text": "Harga barang yang tidak dibutuhkan."
+      },
+      {
+        "key": "D",
+        "text": "Jumlah promo."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-177",
+    "questionNumber": 177,
+    "level": 59,
+    "category": "Financial Planning",
+    "levelTitle": "Evaluasi Perencanaan",
+    "text": "Apa manfaat mengevaluasi rencana keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengetahui keberhasilan dan memperbaiki perencanaan."
+      },
+      {
+        "key": "B",
+        "text": "Menghindari tanggung jawab."
+      },
+      {
+        "key": "C",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "D",
+        "text": "Menghilangkan tabungan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-178",
+    "questionNumber": 178,
+    "level": 60,
+    "category": "Financial Planning",
+    "levelTitle": "Perencanaan Keuangan Terstruktur",
+    "text": "Apa yang harus ada dalam perencanaan keuangan yang baik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pemasukan, pengeluaran, tabungan, dan target."
+      },
+      {
+        "key": "B",
+        "text": "Keinginan belanja saja."
+      },
+      {
+        "key": "C",
+        "text": "Daftar barang mewah."
+      },
+      {
+        "key": "D",
+        "text": "Catatan hiburan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-179",
+    "questionNumber": 179,
+    "level": 60,
+    "category": "Financial Planning",
+    "levelTitle": "Perencanaan Keuangan Terstruktur",
+    "text": "Mengapa target jangka panjang perlu dibagi menjadi target kecil?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar lebih mudah dipantau dan dicapai."
+      },
+      {
+        "key": "B",
+        "text": "Agar lebih sulit dicapai."
+      },
+      {
+        "key": "C",
+        "text": "Agar pengeluaran meningkat."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu dievaluasi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-180",
+    "questionNumber": 180,
+    "level": 60,
+    "category": "Financial Planning",
+    "levelTitle": "Perencanaan Keuangan Terstruktur",
+    "text": "Apa indikator perencanaan keuangan yang berhasil?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Seluruh uang digunakan."
+      },
+      {
+        "key": "B",
+        "text": "Target keuangan tercapai sesuai kemampuan dan rencana."
+      },
+      {
+        "key": "C",
+        "text": "Pengeluaran selalu meningkat."
+      },
+      {
+        "key": "D",
+        "text": "Tidak memiliki tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-181",
+    "questionNumber": 181,
+    "level": 61,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengenal Dana Darurat",
+    "text": "Apa yang dimaksud dengan dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Uang untuk belanja."
+      },
+      {
+        "key": "B",
+        "text": "Dana khusus untuk menghadapi kebutuhan mendesak dan tidak terduga."
+      },
+      {
+        "key": "C",
+        "text": "Uang untuk hiburan."
+      },
+      {
+        "key": "D",
+        "text": "Dana untuk membeli barang mewah."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-182",
+    "questionNumber": 182,
+    "level": 61,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengenal Dana Darurat",
+    "text": "Manakah contoh keadaan yang membutuhkan dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli pakaian baru."
+      },
+      {
+        "key": "B",
+        "text": "Liburan."
+      },
+      {
+        "key": "C",
+        "text": "Biaya pengobatan mendadak."
+      },
+      {
+        "key": "D",
+        "text": "Membeli gadget terbaru."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-183",
+    "questionNumber": 183,
+    "level": 61,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengenal Dana Darurat",
+    "text": "Mengapa dana darurat penting?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membantu menghadapi kondisi keuangan tidak terduga."
+      },
+      {
+        "key": "B",
+        "text": "Membantu meningkatkan belanja."
+      },
+      {
+        "key": "C",
+        "text": "Menggantikan pemasukan selamanya."
+      },
+      {
+        "key": "D",
+        "text": "Digunakan untuk mengikuti tren."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-184",
+    "questionNumber": 184,
+    "level": 62,
+    "category": "Emergency Fund",
+    "levelTitle": "Menentukan Target Dana Darurat",
+    "text": "Apa dasar menentukan target dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gaya hidup teman."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah pengeluaran pokok dan kondisi pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Harga barang yang diinginkan."
+      },
+      {
+        "key": "D",
+        "text": "Jumlah promo."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-185",
+    "questionNumber": 185,
+    "level": 62,
+    "category": "Emergency Fund",
+    "levelTitle": "Menentukan Target Dana Darurat",
+    "text": "Berapa target dana darurat yang umum digunakan untuk pekerja dengan penghasilan tetap?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Setara satu hari pengeluaran."
+      },
+      {
+        "key": "B",
+        "text": "Setara 3–6 bulan biaya hidup."
+      },
+      {
+        "key": "C",
+        "text": "Setara satu kali belanja."
+      },
+      {
+        "key": "D",
+        "text": "Tidak perlu memiliki target."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-186",
+    "questionNumber": 186,
+    "level": 62,
+    "category": "Emergency Fund",
+    "levelTitle": "Menentukan Target Dana Darurat",
+    "text": "Jika baru mulai membangun dana darurat, apa langkah yang tepat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunggu memiliki pemasukan besar."
+      },
+      {
+        "key": "B",
+        "text": "Menentukan target awal yang realistis dan mulai menyisihkan uang."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan pinjaman."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan seluruh pemasukan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-187",
+    "questionNumber": 187,
+    "level": 63,
+    "category": "Emergency Fund",
+    "levelTitle": "Menghitung Kebutuhan Darurat",
+    "text": "Pengeluaran apa yang digunakan sebagai dasar menghitung dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pengeluaran kebutuhan pokok."
+      },
+      {
+        "key": "B",
+        "text": "Pengeluaran hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Belanja impulsif."
+      },
+      {
+        "key": "D",
+        "text": "Pembelian barang mewah."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-188",
+    "questionNumber": 188,
+    "level": 63,
+    "category": "Emergency Fund",
+    "levelTitle": "Menghitung Kebutuhan Darurat",
+    "text": "Jika biaya hidup pokok sebesar Rp2.000.000 per bulan, berapa target dana darurat untuk tiga bulan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp2.000.000."
+      },
+      {
+        "key": "B",
+        "text": "Rp4.000.000."
+      },
+      {
+        "key": "C",
+        "text": "Rp6.000.000."
+      },
+      {
+        "key": "D",
+        "text": "Rp8.000.000."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-189",
+    "questionNumber": 189,
+    "level": 63,
+    "category": "Emergency Fund",
+    "levelTitle": "Menghitung Kebutuhan Darurat",
+    "text": "Mengapa kebutuhan pokok perlu dihitung secara realistis?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar target dana darurat sesuai kondisi sebenarnya."
+      },
+      {
+        "key": "B",
+        "text": "Agar target semakin besar tanpa alasan."
+      },
+      {
+        "key": "C",
+        "text": "Agar uang lebih cepat habis."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu menabung."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-190",
+    "questionNumber": 190,
+    "level": 64,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengumpulkan Dana Darurat",
+    "text": "Bagaimana cara membangun dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengambil uang dari kebutuhan pokok."
+      },
+      {
+        "key": "B",
+        "text": "Menyisihkan sebagian pemasukan secara rutin."
+      },
+      {
+        "key": "C",
+        "text": "Menunggu hadiah."
+      },
+      {
+        "key": "D",
+        "text": "Mengandalkan pinjaman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-191",
+    "questionNumber": 191,
+    "level": 64,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengumpulkan Dana Darurat",
+    "text": "Jika memiliki pemasukan tambahan, apa yang dapat dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengalokasikan sebagian untuk dana darurat."
+      },
+      {
+        "key": "B",
+        "text": "Menghabiskan seluruhnya."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang yang tidak dibutuhkan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan target."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-192",
+    "questionNumber": 192,
+    "level": 64,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengumpulkan Dana Darurat",
+    "text": "Apa yang perlu dilakukan untuk memantau dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengandalkan ingatan."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat saldo dan penambahan dana."
+      },
+      {
+        "key": "C",
+        "text": "Menggabungkannya dengan uang jajan."
+      },
+      {
+        "key": "D",
+        "text": "Tidak memeriksa saldo."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-193",
+    "questionNumber": 193,
+    "level": 65,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengenali Risiko Keuangan",
+    "text": "Manakah contoh risiko keuangan yang tidak terduga?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli makanan favorit."
+      },
+      {
+        "key": "B",
+        "text": "Kehilangan pekerjaan atau mengalami kerusakan kendaraan mendadak."
+      },
+      {
+        "key": "C",
+        "text": "Membeli pakaian."
+      },
+      {
+        "key": "D",
+        "text": "Pergi berlibur."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-194",
+    "questionNumber": 194,
+    "level": 65,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengenali Risiko Keuangan",
+    "text": "Apa yang sebaiknya dilakukan ketika menghadapi pengeluaran mendadak?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan dana yang telah disiapkan untuk keadaan darurat."
+      },
+      {
+        "key": "B",
+        "text": "Menghabiskan seluruh tabungan tujuan."
+      },
+      {
+        "key": "C",
+        "text": "Tetap berbelanja."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan kebutuhan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-195",
+    "questionNumber": 195,
+    "level": 65,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengenali Risiko Keuangan",
+    "text": "Mengapa perlu memiliki rencana menghadapi risiko keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar lebih siap menghadapi kondisi tidak terduga."
+      },
+      {
+        "key": "B",
+        "text": "Agar tidak perlu mengatur uang."
+      },
+      {
+        "key": "C",
+        "text": "Agar pengeluaran meningkat."
+      },
+      {
+        "key": "D",
+        "text": "Agar dapat berutang lebih banyak."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-196",
+    "questionNumber": 196,
+    "level": 66,
+    "category": "Emergency Fund",
+    "levelTitle": "Konsistensi Dana Darurat",
+    "text": "Bagaimana cara menjaga pertumbuhan dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyisihkan uang secara berkala."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uangnya untuk hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Mengambil uang setiap minggu."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan pencatatan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-197",
+    "questionNumber": 197,
+    "level": 66,
+    "category": "Emergency Fund",
+    "levelTitle": "Konsistensi Dana Darurat",
+    "text": "Jika target dana darurat belum tercapai, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Berhenti menabung."
+      },
+      {
+        "key": "B",
+        "text": "Melanjutkan penyisihan secara konsisten."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang pinjaman."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan target."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-198",
+    "questionNumber": 198,
+    "level": 66,
+    "category": "Emergency Fund",
+    "levelTitle": "Konsistensi Dana Darurat",
+    "text": "Kapan dana darurat sebaiknya digunakan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Saat ada diskon."
+      },
+      {
+        "key": "B",
+        "text": "Saat ingin membeli gadget."
+      },
+      {
+        "key": "C",
+        "text": "Ketika menghadapi kondisi mendesak yang memenuhi kriteria darurat."
+      },
+      {
+        "key": "D",
+        "text": "Saat ingin liburan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-199",
+    "questionNumber": 199,
+    "level": 67,
+    "category": "Emergency Fund",
+    "levelTitle": "Membedakan Kebutuhan Darurat",
+    "text": "Manakah yang termasuk kebutuhan darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengganti ponsel karena model terbaru."
+      },
+      {
+        "key": "B",
+        "text": "Memperbaiki kendaraan yang rusak dan dibutuhkan untuk bekerja."
+      },
+      {
+        "key": "C",
+        "text": "Membeli sepatu tren."
+      },
+      {
+        "key": "D",
+        "text": "Berbelanja saat promo."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-200",
+    "questionNumber": 200,
+    "level": 67,
+    "category": "Emergency Fund",
+    "levelTitle": "Membedakan Kebutuhan Darurat",
+    "text": "Jika ingin membeli barang yang sedang diskon, apakah boleh menggunakan dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Boleh karena harganya murah."
+      },
+      {
+        "key": "B",
+        "text": "Boleh jika menggunakan voucher."
+      },
+      {
+        "key": "C",
+        "text": "Tidak, karena bukan kebutuhan darurat."
+      },
+      {
+        "key": "D",
+        "text": "Boleh jika barangnya bermerek."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-201",
+    "questionNumber": 201,
+    "level": 67,
+    "category": "Emergency Fund",
+    "levelTitle": "Membedakan Kebutuhan Darurat",
+    "text": "Apa yang perlu dilakukan setelah menggunakan dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikan saldo yang tersisa."
+      },
+      {
+        "key": "B",
+        "text": "Menyusun kembali rencana untuk mengisi dana tersebut."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan seluruh tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan kebiasaan menabung."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-202",
+    "questionNumber": 202,
+    "level": 68,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengevaluasi Dana Darurat",
+    "text": "Apa yang perlu diperiksa saat mengevaluasi dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Saldo terkumpul dan kesesuaiannya dengan target."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah barang yang dibeli."
+      },
+      {
+        "key": "C",
+        "text": "Banyaknya aktivitas hiburan."
+      },
+      {
+        "key": "D",
+        "text": "Jumlah promo."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-203",
+    "questionNumber": 203,
+    "level": 68,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengevaluasi Dana Darurat",
+    "text": "Jika biaya hidup meningkat, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempertahankan target lama tanpa evaluasi."
+      },
+      {
+        "key": "B",
+        "text": "Menyesuaikan target dana darurat."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan dana darurat."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-204",
+    "questionNumber": 204,
+    "level": 68,
+    "category": "Emergency Fund",
+    "levelTitle": "Mengevaluasi Dana Darurat",
+    "text": "Mengapa dana darurat perlu dievaluasi secara berkala?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar tetap sesuai dengan kebutuhan dan kondisi keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Agar dapat digunakan untuk belanja."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu menabung."
+      },
+      {
+        "key": "D",
+        "text": "Agar target selalu dihapus."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-205",
+    "questionNumber": 205,
+    "level": 69,
+    "category": "Emergency Fund",
+    "levelTitle": "Strategi Dana Darurat",
+    "text": "Apa strategi yang tepat jika ingin mempercepat pencapaian dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengurangi pengeluaran tidak penting dan menambah alokasi tabungan."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang kebutuhan pokok."
+      },
+      {
+        "key": "C",
+        "text": "Meminjam uang untuk disimpan."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan pembayaran kewajiban."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-206",
+    "questionNumber": 206,
+    "level": 69,
+    "category": "Emergency Fund",
+    "levelTitle": "Strategi Dana Darurat",
+    "text": "Di mana dana darurat sebaiknya disimpan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pada instrumen yang sulit dicairkan."
+      },
+      {
+        "key": "B",
+        "text": "Pada tempat yang relatif aman dan mudah diakses."
+      },
+      {
+        "key": "C",
+        "text": "Untuk membeli barang koleksi."
+      },
+      {
+        "key": "D",
+        "text": "Pada belanja online."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-207",
+    "questionNumber": 207,
+    "level": 69,
+    "category": "Emergency Fund",
+    "levelTitle": "Strategi Dana Darurat",
+    "text": "Apa yang harus dilakukan jika dana darurat sudah digunakan sebagian?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkannya."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan sisanya untuk hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Membuat rencana pengisian kembali."
+      },
+      {
+        "key": "D",
+        "text": "Menghapus target dana darurat."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-208",
+    "questionNumber": 208,
+    "level": 70,
+    "category": "Emergency Fund",
+    "levelTitle": "Evaluasi Emergency Fund",
+    "text": "Apa tanda bahwa pengelolaan dana darurat berjalan baik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memiliki target dan menyisihkan dana secara konsisten."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan dana untuk belanja."
+      },
+      {
+        "key": "C",
+        "text": "Tidak mengetahui saldo dana."
+      },
+      {
+        "key": "D",
+        "text": "Tidak memiliki perencanaan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-209",
+    "questionNumber": 209,
+    "level": 70,
+    "category": "Emergency Fund",
+    "levelTitle": "Evaluasi Emergency Fund",
+    "text": "Jika dana darurat sudah mencapai target, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan seluruh dana."
+      },
+      {
+        "key": "B",
+        "text": "Menjaga dana dan mengevaluasi target sesuai kondisi."
+      },
+      {
+        "key": "C",
+        "text": "Menghentikan semua pengelolaan keuangan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan dana untuk hiburan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-210",
+    "questionNumber": 210,
+    "level": 70,
+    "category": "Emergency Fund",
+    "levelTitle": "Evaluasi Emergency Fund",
+    "text": "Apa tujuan utama memiliki dana darurat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli barang yang diinginkan."
+      },
+      {
+        "key": "B",
+        "text": "Menambah gaya hidup."
+      },
+      {
+        "key": "C",
+        "text": "Memberikan perlindungan finansial saat terjadi kondisi tidak terduga."
+      },
+      {
+        "key": "D",
+        "text": "Menggantikan seluruh pemasukan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-211",
+    "questionNumber": 211,
+    "level": 71,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Keuangan Mandiri",
+    "text": "Apa yang menunjukkan seseorang mandiri secara finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Selalu mengandalkan uang orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Mampu mengatur pemasukan dan pengeluaran sendiri."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang tanpa perencanaan."
+      },
+      {
+        "key": "D",
+        "text": "Memiliki banyak barang."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-212",
+    "questionNumber": 212,
+    "level": 71,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Keuangan Mandiri",
+    "text": "Apa yang perlu dilakukan sebelum meminta tambahan uang untuk kebutuhan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengevaluasi penggunaan uang sebelumnya."
+      },
+      {
+        "key": "B",
+        "text": "Membeli barang baru."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan pinjaman."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan anggaran."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-213",
+    "questionNumber": 213,
+    "level": 71,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Keuangan Mandiri",
+    "text": "Bagaimana cara membangun tanggung jawab keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerahkan seluruh keputusan keuangan kepada orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Menghindari pencatatan."
+      },
+      {
+        "key": "C",
+        "text": "Mengatur pemasukan dan memenuhi kewajiban secara mandiri."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti gaya hidup teman."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-214",
+    "questionNumber": 214,
+    "level": 72,
+    "category": "Financial Independence",
+    "levelTitle": "Menentukan Tujuan Jangka Panjang",
+    "text": "Apa contoh tujuan keuangan jangka panjang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli makan siang."
+      },
+      {
+        "key": "B",
+        "text": "Membeli minuman."
+      },
+      {
+        "key": "C",
+        "text": "Menyiapkan dana untuk membeli rumah."
+      },
+      {
+        "key": "D",
+        "text": "Membayar parkir."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-215",
+    "questionNumber": 215,
+    "level": 72,
+    "category": "Financial Independence",
+    "levelTitle": "Menentukan Tujuan Jangka Panjang",
+    "text": "Bagaimana cara mencapai tujuan keuangan jangka panjang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan seluruh pemasukan."
+      },
+      {
+        "key": "B",
+        "text": "Membuat rencana dan menabung secara konsisten."
+      },
+      {
+        "key": "C",
+        "text": "Mengandalkan keberuntungan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti tujuan orang lain."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-216",
+    "questionNumber": 216,
+    "level": 72,
+    "category": "Financial Independence",
+    "levelTitle": "Menentukan Tujuan Jangka Panjang",
+    "text": "Mengapa tujuan jangka panjang perlu direncanakan sejak dini?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar memiliki waktu mempersiapkan dana."
+      },
+      {
+        "key": "B",
+        "text": "Agar bisa meningkatkan pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu menabung."
+      },
+      {
+        "key": "D",
+        "text": "Agar dapat membeli barang tanpa batas."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-217",
+    "questionNumber": 217,
+    "level": 73,
+    "category": "Financial Independence",
+    "levelTitle": "Mengambil Keputusan Finansial",
+    "text": "Apa yang menjadi dasar pengambilan keputusan keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tekanan teman."
+      },
+      {
+        "key": "B",
+        "text": "Tren media sosial."
+      },
+      {
+        "key": "C",
+        "text": "Kondisi keuangan dan tujuan pribadi."
+      },
+      {
+        "key": "D",
+        "text": "Keinginan sesaat."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-218",
+    "questionNumber": 218,
+    "level": 73,
+    "category": "Financial Independence",
+    "levelTitle": "Mengambil Keputusan Finansial",
+    "text": "Jika teman mengajak membeli barang mahal, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli agar tidak tertinggal."
+      },
+      {
+        "key": "B",
+        "text": "Mempertimbangkan kemampuan keuangan sendiri."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan uang tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Meminjam uang."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-219",
+    "questionNumber": 219,
+    "level": 73,
+    "category": "Financial Independence",
+    "levelTitle": "Mengambil Keputusan Finansial",
+    "text": "Apa manfaat mengambil keputusan keuangan secara mandiri?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghindari tanggung jawab."
+      },
+      {
+        "key": "B",
+        "text": "Membantu menentukan pilihan sesuai kondisi pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Meningkatkan pengeluaran."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti semua tren."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-220",
+    "questionNumber": 220,
+    "level": 74,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Penghasilan Tambahan",
+    "text": "Jika mendapatkan bonus, apa tindakan yang paling tepat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan seluruh bonus."
+      },
+      {
+        "key": "B",
+        "text": "Mengalokasikan bonus sesuai prioritas keuangan."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang mewah."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti gaya hidup teman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-221",
+    "questionNumber": 221,
+    "level": 74,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Penghasilan Tambahan",
+    "text": "Apa yang sebaiknya dilakukan ketika mendapatkan pemasukan tidak rutin?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan seluruhnya untuk hiburan."
+      },
+      {
+        "key": "B",
+        "text": "Tidak mencatatnya."
+      },
+      {
+        "key": "C",
+        "text": "Memasukkannya dalam perencanaan keuangan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikannya."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-222",
+    "questionNumber": 222,
+    "level": 74,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Penghasilan Tambahan",
+    "text": "Mengapa pemasukan tambahan perlu dikelola?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar dapat membantu mencapai tujuan keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Agar cepat habis."
+      },
+      {
+        "key": "C",
+        "text": "Agar meningkatkan belanja impulsif."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu menabung."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-223",
+    "questionNumber": 223,
+    "level": 75,
+    "category": "Financial Independence",
+    "levelTitle": "Mengukur Kemampuan Finansial",
+    "text": "Apa yang perlu diperiksa sebelum mengambil cicilan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Popularitas barang."
+      },
+      {
+        "key": "B",
+        "text": "Kemampuan membayar dan kewajiban bulanan."
+      },
+      {
+        "key": "C",
+        "text": "Jumlah iklan."
+      },
+      {
+        "key": "D",
+        "text": "Keinginan teman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-224",
+    "questionNumber": 224,
+    "level": 75,
+    "category": "Financial Independence",
+    "levelTitle": "Mengukur Kemampuan Finansial",
+    "text": "Jika cicilan melebihi kemampuan, apa tindakan terbaik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap mengambilnya."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan pinjaman lain."
+      },
+      {
+        "key": "C",
+        "text": "Menunda pembelian dan memperbaiki kondisi keuangan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan dana darurat."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-225",
+    "questionNumber": 225,
+    "level": 75,
+    "category": "Financial Independence",
+    "levelTitle": "Mengukur Kemampuan Finansial",
+    "text": "Apa indikator kemampuan finansial yang sehat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mampu memenuhi kebutuhan dan kewajiban sesuai kemampuan."
+      },
+      {
+        "key": "B",
+        "text": "Memiliki banyak cicilan."
+      },
+      {
+        "key": "C",
+        "text": "Sering menggunakan pinjaman."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan seluruh pemasukan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-226",
+    "questionNumber": 226,
+    "level": 76,
+    "category": "Financial Independence",
+    "levelTitle": "Membangun Kebiasaan Finansial",
+    "text": "Apa yang sebaiknya dilakukan untuk menjaga keuangan tetap stabil?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan uang tanpa batas."
+      },
+      {
+        "key": "B",
+        "text": "Memiliki anggaran dan evaluasi rutin."
+      },
+      {
+        "key": "C",
+        "text": "Menghindari tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti semua keinginan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-227",
+    "questionNumber": 227,
+    "level": 76,
+    "category": "Financial Independence",
+    "levelTitle": "Membangun Kebiasaan Finansial",
+    "text": "Bagaimana menghadapi perubahan kebutuhan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikan anggaran."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan semua tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Menyesuaikan anggaran berdasarkan prioritas."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan pencatatan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-228",
+    "questionNumber": 228,
+    "level": 76,
+    "category": "Financial Independence",
+    "levelTitle": "Membangun Kebiasaan Finansial",
+    "text": "Mengapa kebiasaan finansial perlu dipertahankan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar kondisi keuangan lebih terarah dan stabil."
+      },
+      {
+        "key": "B",
+        "text": "Agar dapat berbelanja lebih banyak."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu mengevaluasi."
+      },
+      {
+        "key": "D",
+        "text": "Agar seluruh uang cepat habis."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-229",
+    "questionNumber": 229,
+    "level": 77,
+    "category": "Financial Independence",
+    "levelTitle": "Memperbaiki Kebiasaan Buruk",
+    "text": "Jika sering gagal mencapai target tabungan, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghentikan kebiasaan menabung."
+      },
+      {
+        "key": "B",
+        "text": "Mengevaluasi penyebab dan memperbaiki strategi."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan pinjaman."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan target."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-230",
+    "questionNumber": 230,
+    "level": 77,
+    "category": "Financial Independence",
+    "levelTitle": "Memperbaiki Kebiasaan Buruk",
+    "text": "Apa yang perlu dilakukan ketika menyadari terlalu sering belanja impulsif?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli lebih banyak."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti semua promo."
+      },
+      {
+        "key": "C",
+        "text": "Membuat batas pengeluaran dan mengendalikan pemicu belanja."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-231",
+    "questionNumber": 231,
+    "level": 77,
+    "category": "Financial Independence",
+    "levelTitle": "Memperbaiki Kebiasaan Buruk",
+    "text": "Apa tujuan memperbaiki kebiasaan finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membuat pengeluaran tidak terkontrol."
+      },
+      {
+        "key": "B",
+        "text": "Meningkatkan tanggung jawab dan kualitas pengelolaan uang."
+      },
+      {
+        "key": "C",
+        "text": "Menghindari seluruh aktivitas belanja."
+      },
+      {
+        "key": "D",
+        "text": "Menghilangkan pemasukan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-232",
+    "questionNumber": 232,
+    "level": 78,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Seluruh Keuangan",
+    "text": "Apa yang perlu dilakukan agar pemasukan dan pengeluaran seimbang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan seluruh pemasukan."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan pinjaman."
+      },
+      {
+        "key": "C",
+        "text": "Mengatur pengeluaran berdasarkan jumlah pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan anggaran."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-233",
+    "questionNumber": 233,
+    "level": 78,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Seluruh Keuangan",
+    "text": "Apa yang perlu dilakukan ketika memiliki sisa uang setelah kebutuhan terpenuhi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan semuanya."
+      },
+      {
+        "key": "B",
+        "text": "Mengalokasikan untuk tabungan atau tujuan keuangan."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang yang tidak dibutuhkan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruhnya untuk hiburan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-234",
+    "questionNumber": 234,
+    "level": 78,
+    "category": "Financial Independence",
+    "levelTitle": "Mengelola Seluruh Keuangan",
+    "text": "Mengapa perlu mengetahui kondisi keuangan secara keseluruhan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar dapat mengambil keputusan berdasarkan kondisi sebenarnya."
+      },
+      {
+        "key": "B",
+        "text": "Agar tidak perlu membuat rencana."
+      },
+      {
+        "key": "C",
+        "text": "Agar pengeluaran meningkat."
+      },
+      {
+        "key": "D",
+        "text": "Agar bisa membeli barang lebih banyak."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-235",
+    "questionNumber": 235,
+    "level": 79,
+    "category": "Financial Independence",
+    "levelTitle": "Menghadapi Perubahan Pendapatan",
+    "text": "Jika pemasukan menurun, apa tindakan yang tepat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempertahankan seluruh pengeluaran."
+      },
+      {
+        "key": "B",
+        "text": "Menambah pengeluaran hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Memprioritaskan kebutuhan dan menyesuaikan anggaran."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-236",
+    "questionNumber": 236,
+    "level": 79,
+    "category": "Financial Independence",
+    "levelTitle": "Menghadapi Perubahan Pendapatan",
+    "text": "Jika mendapatkan kenaikan penghasilan, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meningkatkan gaya hidup tanpa batas."
+      },
+      {
+        "key": "B",
+        "text": "Menyesuaikan alokasi tabungan dan kebutuhan."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan seluruh tambahan penghasilan."
+      },
+      {
+        "key": "D",
+        "text": "Menambah pembelian impulsif."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-237",
+    "questionNumber": 237,
+    "level": 79,
+    "category": "Financial Independence",
+    "levelTitle": "Menghadapi Perubahan Pendapatan",
+    "text": "Apa manfaat memiliki rencana keuangan alternatif?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membantu menghadapi perubahan kondisi pendapatan."
+      },
+      {
+        "key": "B",
+        "text": "Membuat pengeluaran semakin besar."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan kebutuhan menabung."
+      },
+      {
+        "key": "D",
+        "text": "Meningkatkan utang."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-238",
+    "questionNumber": 238,
+    "level": 80,
+    "category": "Financial Independence",
+    "levelTitle": "Evaluasi Kemandirian Finansial",
+    "text": "Apa tanda seseorang semakin mandiri secara finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Selalu bergantung pada orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Memiliki kemampuan mengatur uang dan mencapai tujuan."
+      },
+      {
+        "key": "C",
+        "text": "Memiliki banyak barang."
+      },
+      {
+        "key": "D",
+        "text": "Sering menggunakan pinjaman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-239",
+    "questionNumber": 239,
+    "level": 80,
+    "category": "Financial Independence",
+    "levelTitle": "Evaluasi Kemandirian Finansial",
+    "text": "Apa yang perlu dievaluasi untuk mengetahui perkembangan kemandirian finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jumlah barang yang dimiliki."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah teman yang berpenghasilan."
+      },
+      {
+        "key": "C",
+        "text": "Kemampuan mengelola pemasukan, pengeluaran, dan tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Banyaknya aktivitas belanja."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-240",
+    "questionNumber": 240,
+    "level": 80,
+    "category": "Financial Independence",
+    "levelTitle": "Evaluasi Kemandirian Finansial",
+    "text": "Apa tujuan akhir membangun kemandirian finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mampu mengambil keputusan dan memenuhi kebutuhan keuangan secara bertanggung jawab."
+      },
+      {
+        "key": "B",
+        "text": "Tidak pernah menggunakan uang."
+      },
+      {
+        "key": "C",
+        "text": "Memiliki gaya hidup mewah."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari seluruh pengeluaran."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-241",
+    "questionNumber": 241,
+    "level": 81,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengenal Aset dan Kewajiban",
+    "text": "Apa yang dimaksud dengan aset?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Seluruh pengeluaran."
+      },
+      {
+        "key": "B",
+        "text": "Sumber daya atau kekayaan yang dimiliki dan bernilai ekonomi."
+      },
+      {
+        "key": "C",
+        "text": "Seluruh utang."
+      },
+      {
+        "key": "D",
+        "text": "Biaya hiburan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-242",
+    "questionNumber": 242,
+    "level": 81,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengenal Aset dan Kewajiban",
+    "text": "Manakah contoh kewajiban keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Saldo tabungan."
+      },
+      {
+        "key": "B",
+        "text": "Kendaraan milik pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Cicilan pinjaman yang harus dibayar."
+      },
+      {
+        "key": "D",
+        "text": "Uang tunai yang dimiliki."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-243",
+    "questionNumber": 243,
+    "level": 81,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengenal Aset dan Kewajiban",
+    "text": "Apa manfaat mencatat aset dan kewajiban?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengetahui gambaran kondisi keuangan pribadi."
+      },
+      {
+        "key": "B",
+        "text": "Meningkatkan pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan kewajiban."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari pencatatan transaksi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-244",
+    "questionNumber": 244,
+    "level": 82,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengoptimalkan Pengeluaran",
+    "text": "Apa yang sebaiknya dilakukan jika memiliki banyak biaya langganan yang jarang digunakan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempertahankan semuanya."
+      },
+      {
+        "key": "B",
+        "text": "Menambah langganan baru."
+      },
+      {
+        "key": "C",
+        "text": "Mengevaluasi dan menghentikan layanan yang tidak diperlukan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan biaya."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-245",
+    "questionNumber": 245,
+    "level": 82,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengoptimalkan Pengeluaran",
+    "text": "Bagaimana cara mengoptimalkan pengeluaran bulanan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengurangi pengeluaran yang tidak memberikan manfaat."
+      },
+      {
+        "key": "B",
+        "text": "Menambah belanja."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan dana darurat."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari evaluasi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-246",
+    "questionNumber": 246,
+    "level": 82,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengoptimalkan Pengeluaran",
+    "text": "Apa tujuan efisiensi pengeluaran?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghilangkan seluruh kebutuhan."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang secara lebih efektif."
+      },
+      {
+        "key": "C",
+        "text": "Meningkatkan jumlah utang."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan seluruh pemasukan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-247",
+    "questionNumber": 247,
+    "level": 83,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengenal Investasi",
+    "text": "Apa tujuan utama investasi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan uang."
+      },
+      {
+        "key": "B",
+        "text": "Mengembangkan nilai aset dalam jangka waktu tertentu."
+      },
+      {
+        "key": "C",
+        "text": "Mendapatkan keuntungan tanpa risiko."
+      },
+      {
+        "key": "D",
+        "text": "Membeli barang konsumtif."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-248",
+    "questionNumber": 248,
+    "level": 83,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengenal Investasi",
+    "text": "Apa yang perlu dipahami sebelum berinvestasi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Risiko, potensi keuntungan, dan jangka waktu."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah iklan."
+      },
+      {
+        "key": "C",
+        "text": "Popularitas produk saja."
+      },
+      {
+        "key": "D",
+        "text": "Janji keuntungan tinggi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-249",
+    "questionNumber": 249,
+    "level": 83,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengenal Investasi",
+    "text": "Apa prinsip yang tepat bagi pemula sebelum memilih investasi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti rekomendasi tanpa pemeriksaan."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan seluruh dana darurat."
+      },
+      {
+        "key": "C",
+        "text": "Memahami produk dan menyesuaikan dengan profil risiko."
+      },
+      {
+        "key": "D",
+        "text": "Memilih investasi dengan keuntungan yang dijanjikan paling besar."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-250",
+    "questionNumber": 250,
+    "level": 84,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Memahami Utang dan Bunga",
+    "text": "Apa yang dimaksud dengan bunga pinjaman?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tambahan biaya atas penggunaan dana pinjaman."
+      },
+      {
+        "key": "B",
+        "text": "Uang tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Bonus pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Potongan harga barang."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-251",
+    "questionNumber": 251,
+    "level": 84,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Memahami Utang dan Bunga",
+    "text": "Apa yang perlu diperhatikan sebelum mengambil pinjaman?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Warna kartu."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah iklan."
+      },
+      {
+        "key": "C",
+        "text": "Total pembayaran, bunga, biaya, dan kemampuan membayar."
+      },
+      {
+        "key": "D",
+        "text": "Banyaknya pengguna."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-252",
+    "questionNumber": 252,
+    "level": 84,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Memahami Utang dan Bunga",
+    "text": "Bagaimana cara menghindari masalah utang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengambil pinjaman untuk semua kebutuhan."
+      },
+      {
+        "key": "B",
+        "text": "Meminjam sesuai kebutuhan dan kemampuan membayar."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikan jatuh tempo."
+      },
+      {
+        "key": "D",
+        "text": "Membayar utang menggunakan pinjaman baru terus-menerus."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-253",
+    "questionNumber": 253,
+    "level": 85,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengelola Uang Tambahan",
+    "text": "Bagaimana cara mengalokasikan bonus atau penghasilan tambahan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan semuanya untuk hiburan."
+      },
+      {
+        "key": "B",
+        "text": "Membagi sesuai prioritas dan target keuangan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti gaya hidup orang lain."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan seluruhnya untuk belanja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-254",
+    "questionNumber": 254,
+    "level": 85,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengelola Uang Tambahan",
+    "text": "Jika memiliki pemasukan tambahan yang tidak rutin, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memasukkannya dalam perencanaan keuangan tanpa menganggapnya sebagai pemasukan tetap."
+      },
+      {
+        "key": "B",
+        "text": "Menganggapnya sebagai pemasukan tetap."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskannya sekaligus."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan pencatatannya."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-255",
+    "questionNumber": 255,
+    "level": 85,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengelola Uang Tambahan",
+    "text": "Apa manfaat mengelola penghasilan tambahan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menambah pengeluaran konsumtif."
+      },
+      {
+        "key": "B",
+        "text": "Membantu mencapai target dan memperkuat kondisi keuangan."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan kebutuhan menabung."
+      },
+      {
+        "key": "D",
+        "text": "Menambah kewajiban pembayaran."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-256",
+    "questionNumber": 256,
+    "level": 86,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Menghadapi Perubahan Keuangan",
+    "text": "Jika biaya hidup meningkat, apa yang perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempertahankan semua pengeluaran tanpa evaluasi."
+      },
+      {
+        "key": "B",
+        "text": "Menambah belanja."
+      },
+      {
+        "key": "C",
+        "text": "Menyesuaikan anggaran berdasarkan kebutuhan terbaru."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-257",
+    "questionNumber": 257,
+    "level": 86,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Menghadapi Perubahan Keuangan",
+    "text": "Jika kehilangan sumber pemasukan sementara, apa prioritas pertama?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli barang baru."
+      },
+      {
+        "key": "B",
+        "text": "Memenuhi kebutuhan pokok dan mengatur dana yang tersedia."
+      },
+      {
+        "key": "C",
+        "text": "Meningkatkan pengeluaran hiburan."
+      },
+      {
+        "key": "D",
+        "text": "Mengambil cicilan konsumtif."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-258",
+    "questionNumber": 258,
+    "level": 86,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Menghadapi Perubahan Keuangan",
+    "text": "Mengapa penting memiliki rencana keuangan alternatif?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar siap menghadapi perubahan kondisi ekonomi pribadi."
+      },
+      {
+        "key": "B",
+        "text": "Agar bisa belanja lebih banyak."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu menabung."
+      },
+      {
+        "key": "D",
+        "text": "Agar dapat mengambil lebih banyak pinjaman."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-259",
+    "questionNumber": 259,
+    "level": 87,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengidentifikasi Risiko Finansial",
+    "text": "Apa yang dimaksud risiko finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kemungkinan terjadinya kondisi yang berdampak pada keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Keuntungan yang pasti diperoleh."
+      },
+      {
+        "key": "C",
+        "text": "Jumlah uang yang ditabung."
+      },
+      {
+        "key": "D",
+        "text": "Pembelian kebutuhan pokok."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-260",
+    "questionNumber": 260,
+    "level": 87,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengidentifikasi Risiko Finansial",
+    "text": "Bagaimana cara mengurangi risiko penipuan keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberikan data pribadi kepada siapa saja."
+      },
+      {
+        "key": "B",
+        "text": "Mempercayai semua tawaran keuntungan."
+      },
+      {
+        "key": "C",
+        "text": "Memeriksa legalitas dan kredibilitas penyedia layanan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti tautan yang tidak dikenal."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-261",
+    "questionNumber": 261,
+    "level": 87,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Mengidentifikasi Risiko Finansial",
+    "text": "Jika menerima tawaran investasi dengan keuntungan tinggi yang dijamin, apa tindakan terbaik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung mentransfer uang."
+      },
+      {
+        "key": "B",
+        "text": "Meminjam uang untuk ikut."
+      },
+      {
+        "key": "C",
+        "text": "Memeriksa legalitas, risiko, dan kebenaran penawaran."
+      },
+      {
+        "key": "D",
+        "text": "Mengajak semua teman."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-262",
+    "questionNumber": 262,
+    "level": 88,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Analisis Keuangan",
+    "text": "Apa manfaat menganalisis catatan keuangan selama tiga bulan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengetahui pola dan perubahan kondisi keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Menghilangkan kebutuhan anggaran."
+      },
+      {
+        "key": "C",
+        "text": "Menambah pembelian."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari evaluasi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-263",
+    "questionNumber": 263,
+    "level": 88,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Analisis Keuangan",
+    "text": "Jika pengeluaran terus meningkat selama tiga bulan, apa yang perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkannya."
+      },
+      {
+        "key": "B",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Mengidentifikasi penyebab dan membuat strategi pengendalian."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan pencatatan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-264",
+    "questionNumber": 264,
+    "level": 88,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Analisis Keuangan",
+    "text": "Apa dasar yang baik untuk mengambil keputusan keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Perasaan sesaat."
+      },
+      {
+        "key": "B",
+        "text": "Data pemasukan, pengeluaran, dan tujuan keuangan."
+      },
+      {
+        "key": "C",
+        "text": "Tren media sosial."
+      },
+      {
+        "key": "D",
+        "text": "Pendapat tanpa pertimbangan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-265",
+    "questionNumber": 265,
+    "level": 89,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Strategi Keuangan Tahunan",
+    "text": "Apa langkah awal menyusun target keuangan tahunan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menentukan tujuan dan kemampuan finansial."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti target teman."
+      },
+      {
+        "key": "C",
+        "text": "Membeli barang baru."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan pemasukan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-266",
+    "questionNumber": 266,
+    "level": 89,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Strategi Keuangan Tahunan",
+    "text": "Bagaimana cara memantau target tahunan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa hanya pada akhir tahun."
+      },
+      {
+        "key": "B",
+        "text": "Membaginya menjadi target bulanan dan mengevaluasi berkala."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikan perkembangannya."
+      },
+      {
+        "key": "D",
+        "text": "Mengubah target setiap hari."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-267",
+    "questionNumber": 267,
+    "level": 89,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Strategi Keuangan Tahunan",
+    "text": "Jika target tahunan tidak berjalan sesuai rencana, apa yang perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerah."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan pinjaman."
+      },
+      {
+        "key": "C",
+        "text": "Mengevaluasi strategi dan menyesuaikannya."
+      },
+      {
+        "key": "D",
+        "text": "Menghabiskan tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-268",
+    "questionNumber": 268,
+    "level": 90,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Evaluasi Pengelolaan Lanjutan",
+    "text": "Apa indikator pengelolaan keuangan yang baik?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memiliki perencanaan, tabungan, dan pengendalian risiko."
+      },
+      {
+        "key": "B",
+        "text": "Memiliki banyak utang."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan seluruh pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari pencatatan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-269",
+    "questionNumber": 269,
+    "level": 90,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Evaluasi Pengelolaan Lanjutan",
+    "text": "Mengapa pengelolaan aset perlu diperhatikan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar seluruh aset cepat dijual."
+      },
+      {
+        "key": "B",
+        "text": "Agar mengetahui nilai dan perkembangan kekayaan."
+      },
+      {
+        "key": "C",
+        "text": "Agar bisa meningkatkan konsumsi."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu membuat target."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-270",
+    "questionNumber": 270,
+    "level": 90,
+    "category": "Advanced Financial Management",
+    "levelTitle": "Evaluasi Pengelolaan Lanjutan",
+    "text": "Apa yang harus dilakukan setelah mengevaluasi kondisi keuangan secara menyeluruh?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghentikan perencanaan."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan hasil evaluasi."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun strategi perbaikan dan pengembangan keuangan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-271",
+    "questionNumber": 271,
+    "level": 91,
+    "category": "Financial Mastery",
+    "levelTitle": "Konsistensi Pengelolaan Keuangan",
+    "text": "Apa yang harus dilakukan agar pencatatan keuangan tetap konsisten?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencatat hanya saat uang habis."
+      },
+      {
+        "key": "B",
+        "text": "Menentukan jadwal pencatatan rutin."
+      },
+      {
+        "key": "C",
+        "text": "Mengandalkan ingatan."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan transaksi kecil."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-272",
+    "questionNumber": 272,
+    "level": 91,
+    "category": "Financial Mastery",
+    "levelTitle": "Konsistensi Pengelolaan Keuangan",
+    "text": "Jika sudah memiliki kebiasaan finansial yang baik, apa yang sebaiknya dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghentikan pencatatan."
+      },
+      {
+        "key": "B",
+        "text": "Menghabiskan tabungan."
+      },
+      {
+        "key": "C",
+        "text": "Mempertahankan dan mengevaluasi kebiasaan tersebut."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan anggaran."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-273",
+    "questionNumber": 273,
+    "level": 91,
+    "category": "Financial Mastery",
+    "levelTitle": "Konsistensi Pengelolaan Keuangan",
+    "text": "Apa manfaat mempertahankan kebiasaan finansial sehat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membantu menjaga kestabilan keuangan dalam jangka panjang."
+      },
+      {
+        "key": "B",
+        "text": "Membuat pengeluaran meningkat."
+      },
+      {
+        "key": "C",
+        "text": "Menghilangkan seluruh kebutuhan."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari tanggung jawab."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-274",
+    "questionNumber": 274,
+    "level": 92,
+    "category": "Financial Mastery",
+    "levelTitle": "Mempertahankan Target Tabungan",
+    "text": "Apa yang harus dilakukan setelah mencapai target tabungan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghabiskan seluruh uang."
+      },
+      {
+        "key": "B",
+        "text": "Membuat target berikutnya sesuai kemampuan."
+      },
+      {
+        "key": "C",
+        "text": "Berhenti menabung."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang untuk belanja impulsif."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-275",
+    "questionNumber": 275,
+    "level": 92,
+    "category": "Financial Mastery",
+    "levelTitle": "Mempertahankan Target Tabungan",
+    "text": "Bagaimana cara menjaga tabungan agar tidak berkurang karena keinginan sesaat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memisahkan tabungan dan mengingat tujuan penggunaannya."
+      },
+      {
+        "key": "B",
+        "text": "Membawa seluruh tabungan untuk belanja."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan tabungan setiap minggu."
+      },
+      {
+        "key": "D",
+        "text": "Menggabungkan tabungan dengan uang jajan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-276",
+    "questionNumber": 276,
+    "level": 92,
+    "category": "Financial Mastery",
+    "levelTitle": "Mempertahankan Target Tabungan",
+    "text": "Jika target tabungan meningkat, apa yang perlu diperhatikan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengorbankan seluruh kebutuhan pokok."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti nominal teman."
+      },
+      {
+        "key": "C",
+        "text": "Menyesuaikan target dengan kemampuan keuangan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan pinjaman."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-277",
+    "questionNumber": 277,
+    "level": 93,
+    "category": "Financial Mastery",
+    "levelTitle": "Pengendalian Diri Tingkat Lanjut",
+    "text": "Apa tindakan terbaik ketika menghadapi godaan belanja besar?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung membeli."
+      },
+      {
+        "key": "B",
+        "text": "Menunda keputusan dan mengevaluasi kebutuhan."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan seluruh tabungan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti rekomendasi teman."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-278",
+    "questionNumber": 278,
+    "level": 93,
+    "category": "Financial Mastery",
+    "levelTitle": "Pengendalian Diri Tingkat Lanjut",
+    "text": "Bagaimana cara menjaga kebiasaan belanja tetap sehat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti tren."
+      },
+      {
+        "key": "B",
+        "text": "Membeli setiap ada diskon."
+      },
+      {
+        "key": "C",
+        "text": "Mematuhi anggaran dan memprioritaskan kebutuhan."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan uang tanpa batas."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-279",
+    "questionNumber": 279,
+    "level": 93,
+    "category": "Financial Mastery",
+    "levelTitle": "Pengendalian Diri Tingkat Lanjut",
+    "text": "Apa yang perlu dilakukan ketika berhasil menghindari pembelian impulsif?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengevaluasi penghematan dan mempertahankan kebiasaan tersebut."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan uang untuk pembelian lain yang tidak diperlukan."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikan perubahan."
+      },
+      {
+        "key": "D",
+        "text": "Menambah anggaran belanja."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-280",
+    "questionNumber": 280,
+    "level": 94,
+    "category": "Financial Mastery",
+    "levelTitle": "Menyesuaikan Kondisi Keuangan",
+    "text": "Jika terjadi perubahan kebutuhan hidup, apa tindakan yang tepat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempertahankan anggaran lama tanpa evaluasi."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan kebutuhan baru."
+      },
+      {
+        "key": "C",
+        "text": "Menyesuaikan anggaran dengan kondisi terbaru."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-281",
+    "questionNumber": 281,
+    "level": 94,
+    "category": "Financial Mastery",
+    "levelTitle": "Menyesuaikan Kondisi Keuangan",
+    "text": "Jika pemasukan bertambah, bagaimana sebaiknya mengelolanya?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Meningkatkan pengeluaran tanpa batas."
+      },
+      {
+        "key": "B",
+        "text": "Menambah alokasi tabungan dan memenuhi prioritas keuangan."
+      },
+      {
+        "key": "C",
+        "text": "Menghabiskan seluruh pemasukan."
+      },
+      {
+        "key": "D",
+        "text": "Membeli barang mewah."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-282",
+    "questionNumber": 282,
+    "level": 94,
+    "category": "Financial Mastery",
+    "levelTitle": "Menyesuaikan Kondisi Keuangan",
+    "text": "Apa tujuan menyesuaikan anggaran secara berkala?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar tetap relevan dengan kebutuhan dan kondisi keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Agar pengeluaran semakin besar."
+      },
+      {
+        "key": "C",
+        "text": "Agar tidak perlu menabung."
+      },
+      {
+        "key": "D",
+        "text": "Agar semua keinginan terpenuhi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-283",
+    "questionNumber": 283,
+    "level": 95,
+    "category": "Financial Mastery",
+    "levelTitle": "Evaluasi Keuangan Bulanan",
+    "text": "Apa yang perlu diperiksa dalam evaluasi keuangan bulanan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Jumlah barang yang dibeli."
+      },
+      {
+        "key": "B",
+        "text": "Jumlah aktivitas hiburan."
+      },
+      {
+        "key": "C",
+        "text": "Pemasukan, pengeluaran, tabungan, dan pencapaian target."
+      },
+      {
+        "key": "D",
+        "text": "Jumlah promo yang digunakan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-284",
+    "questionNumber": 284,
+    "level": 95,
+    "category": "Financial Mastery",
+    "levelTitle": "Evaluasi Keuangan Bulanan",
+    "text": "Jika pengeluaran bulan ini lebih besar dari bulan sebelumnya, apa yang harus dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menambah belanja."
+      },
+      {
+        "key": "B",
+        "text": "Menganalisis penyebab peningkatan pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikannya."
+      },
+      {
+        "key": "D",
+        "text": "Menggunakan seluruh tabungan."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-285",
+    "questionNumber": 285,
+    "level": 95,
+    "category": "Financial Mastery",
+    "levelTitle": "Evaluasi Keuangan Bulanan",
+    "text": "Apa manfaat membuat laporan keuangan bulanan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengetahui perkembangan dan kondisi keuangan."
+      },
+      {
+        "key": "B",
+        "text": "Menambah pengeluaran."
+      },
+      {
+        "key": "C",
+        "text": "Menghindari pencatatan."
+      },
+      {
+        "key": "D",
+        "text": "Mengurangi pemasukan."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-286",
+    "questionNumber": 286,
+    "level": 96,
+    "category": "Financial Mastery",
+    "levelTitle": "Membangun Kebiasaan Jangka Panjang",
+    "text": "Bagaimana cara mempertahankan pencatatan keuangan selama 30 hari?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencatat hanya saat memiliki waktu luang."
+      },
+      {
+        "key": "B",
+        "text": "Mengandalkan ingatan."
+      },
+      {
+        "key": "C",
+        "text": "Membuat jadwal dan mencatat transaksi secara rutin."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan transaksi kecil."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-287",
+    "questionNumber": 287,
+    "level": 96,
+    "category": "Financial Mastery",
+    "levelTitle": "Membangun Kebiasaan Jangka Panjang",
+    "text": "Apa yang harus dilakukan agar kebiasaan menabung bertahan dalam jangka panjang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menabung hanya saat mendapatkan bonus."
+      },
+      {
+        "key": "B",
+        "text": "Menjadikan menabung sebagai bagian dari anggaran rutin."
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan tabungan untuk belanja."
+      },
+      {
+        "key": "D",
+        "text": "Mengubah target setiap hari."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-288",
+    "questionNumber": 288,
+    "level": 96,
+    "category": "Financial Mastery",
+    "levelTitle": "Membangun Kebiasaan Jangka Panjang",
+    "text": "Apa indikator keberhasilan membangun kebiasaan finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Memiliki barang yang banyak."
+      },
+      {
+        "key": "B",
+        "text": "Sering berbelanja."
+      },
+      {
+        "key": "C",
+        "text": "Mampu mempertahankan kebiasaan pengelolaan uang secara konsisten."
+      },
+      {
+        "key": "D",
+        "text": "Memiliki pengeluaran tinggi."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-289",
+    "questionNumber": 289,
+    "level": 97,
+    "category": "Financial Mastery",
+    "levelTitle": "Perencanaan Masa Depan",
+    "text": "Apa yang perlu dipersiapkan untuk mencapai tujuan finansial enam bulan ke depan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Target, anggaran, dan strategi pencapaian."
+      },
+      {
+        "key": "B",
+        "text": "Daftar barang yang sedang tren."
+      },
+      {
+        "key": "C",
+        "text": "Rencana belanja."
+      },
+      {
+        "key": "D",
+        "text": "Pinjaman konsumtif."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-290",
+    "questionNumber": 290,
+    "level": 97,
+    "category": "Financial Mastery",
+    "levelTitle": "Perencanaan Masa Depan",
+    "text": "Mengapa perlu memiliki lebih dari satu tujuan keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Agar seluruh uang digunakan."
+      },
+      {
+        "key": "B",
+        "text": "Agar memiliki arah keuangan untuk berbagai kebutuhan."
+      },
+      {
+        "key": "C",
+        "text": "Agar pengeluaran meningkat."
+      },
+      {
+        "key": "D",
+        "text": "Agar tidak perlu mengevaluasi."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-291",
+    "questionNumber": 291,
+    "level": 97,
+    "category": "Financial Mastery",
+    "levelTitle": "Perencanaan Masa Depan",
+    "text": "Bagaimana cara memastikan rencana masa depan tetap berjalan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan rencana tanpa pemeriksaan."
+      },
+      {
+        "key": "B",
+        "text": "Mengandalkan keberuntungan."
+      },
+      {
+        "key": "C",
+        "text": "Memantau perkembangan dan melakukan evaluasi berkala."
+      },
+      {
+        "key": "D",
+        "text": "Mengubah tujuan setiap hari."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-292",
+    "questionNumber": 292,
+    "level": 98,
+    "category": "Financial Mastery",
+    "levelTitle": "Refleksi Kebiasaan Finansial",
+    "text": "Apa yang sebaiknya dilakukan untuk mengetahui perubahan kebiasaan finansial?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membandingkan kondisi keuangan saat ini dengan kondisi awal."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti kebiasaan orang lain."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikan catatan lama."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan evaluasi."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-293",
+    "questionNumber": 293,
+    "level": 98,
+    "category": "Financial Mastery",
+    "levelTitle": "Refleksi Kebiasaan Finansial",
+    "text": "Jika masih memiliki kebiasaan finansial yang kurang baik, apa yang perlu dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkannya."
+      },
+      {
+        "key": "B",
+        "text": "Mengidentifikasi masalah dan menentukan langkah perbaikan."
+      },
+      {
+        "key": "C",
+        "text": "Menghindari pencatatan."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan semua target."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-294",
+    "questionNumber": 294,
+    "level": 98,
+    "category": "Financial Mastery",
+    "levelTitle": "Refleksi Kebiasaan Finansial",
+    "text": "Apa manfaat melakukan refleksi keuangan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menambah keinginan belanja."
+      },
+      {
+        "key": "B",
+        "text": "Mengurangi pemasukan."
+      },
+      {
+        "key": "C",
+        "text": "Mengetahui keberhasilan dan hal yang masih perlu diperbaiki."
+      },
+      {
+        "key": "D",
+        "text": "Menghilangkan kebutuhan anggaran."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-295",
+    "questionNumber": 295,
+    "level": 99,
+    "category": "Financial Mastery",
+    "levelTitle": "Evaluasi Finansial Menyeluruh",
+    "text": "Apa yang perlu dievaluasi dalam pengelolaan keuangan pribadi?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pemasukan, pengeluaran, tabungan, aset, dan kewajiban."
+      },
+      {
+        "key": "B",
+        "text": "Barang yang sedang tren."
+      },
+      {
+        "key": "C",
+        "text": "Aktivitas belanja teman."
+      },
+      {
+        "key": "D",
+        "text": "Jumlah promo."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-296",
+    "questionNumber": 296,
+    "level": 99,
+    "category": "Financial Mastery",
+    "levelTitle": "Evaluasi Finansial Menyeluruh",
+    "text": "Jika kondisi keuangan belum sesuai harapan, apa yang harus dilakukan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengabaikan masalah."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan pinjaman."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun strategi perbaikan berdasarkan hasil evaluasi."
+      },
+      {
+        "key": "D",
+        "text": "Menghentikan tabungan."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-297",
+    "questionNumber": 297,
+    "level": 99,
+    "category": "Financial Mastery",
+    "levelTitle": "Evaluasi Finansial Menyeluruh",
+    "text": "Apa tujuan evaluasi finansial secara menyeluruh?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengetahui perkembangan dan menentukan langkah keuangan berikutnya."
+      },
+      {
+        "key": "B",
+        "text": "Menghabiskan seluruh uang."
+      },
+      {
+        "key": "C",
+        "text": "Menghindari tanggung jawab."
+      },
+      {
+        "key": "D",
+        "text": "Menambah pengeluaran."
+      }
+    ],
+    "correctKey": "A"
+  },
+  {
+    "id": "mission-298",
+    "questionNumber": 298,
+    "level": 100,
+    "category": "Financial Mastery",
+    "levelTitle": "Financial Mastery",
+    "text": "Apa yang menunjukkan seseorang telah memiliki kebiasaan keuangan yang sehat?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menggunakan uang tanpa perencanaan."
+      },
+      {
+        "key": "B",
+        "text": "Mampu mengatur kebutuhan, pengeluaran, tabungan, dan tujuan keuangan secara konsisten."
+      },
+      {
+        "key": "C",
+        "text": "Memiliki banyak barang mewah."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti seluruh tren belanja."
+      }
+    ],
+    "correctKey": "B"
+  },
+  {
+    "id": "mission-299",
+    "questionNumber": 299,
+    "level": 100,
+    "category": "Financial Mastery",
+    "levelTitle": "Financial Mastery",
+    "text": "Apa yang harus dilakukan untuk mempertahankan kesehatan finansial dalam jangka panjang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghentikan evaluasi."
+      },
+      {
+        "key": "B",
+        "text": "Menggunakan tabungan untuk keinginan."
+      },
+      {
+        "key": "C",
+        "text": "Menjaga disiplin anggaran, menabung, dan mengevaluasi kondisi keuangan."
+      },
+      {
+        "key": "D",
+        "text": "Menghindari seluruh pengeluaran."
+      }
+    ],
+    "correctKey": "C"
+  },
+  {
+    "id": "mission-300",
+    "questionNumber": 300,
+    "level": 100,
+    "category": "Financial Mastery",
+    "levelTitle": "Financial Mastery",
+    "text": "Apa tujuan akhir dari seluruh perjalanan Habit Motivation Jajan Tenang?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjadi pengguna dengan jumlah poin terbanyak saja."
+      },
+      {
+        "key": "B",
+        "text": "Menyelesaikan seluruh level tanpa mengubah kebiasaan."
+      },
+      {
+        "key": "C",
+        "text": "Membangun kemampuan dan kebiasaan mengelola keuangan secara sehat, sadar, dan berkelanjutan."
+      },
+      {
+        "key": "D",
+        "text": "Mengurangi seluruh aktivitas belanja."
+      }
+    ],
+    "correctKey": "C"
+  }
+]
