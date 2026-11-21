@@ -138,38 +138,45 @@ function RootStack() {
       schedulePaydayNotifications(paydayDay).catch(() => {});
   }, [paydayDay]);
   return (
-    <Stack
-      screenOptions={{
-        headerShown: false,
-        contentStyle: { backgroundColor: colors.bg2 },
-      }}
-    >
-      <Stack.Protected guard={!onboarded}>
-        <Stack.Screen name="(onboarding)" />
-      </Stack.Protected>
-      <Stack.Protected guard={onboarded}>
-        <Stack.Screen name="(tabs)" />
-        <Stack.Screen name="profil" />
-        <Stack.Screen name="kuota" />
-        <Stack.Screen name="catatan/baru" />
-        <Stack.Screen name="catatan/[id]" />
-        <Stack.Screen name="riwayat" />
-        <Stack.Screen name="tahan" />
-        <Stack.Screen name="tujuan/baru" />
-        <Stack.Screen name="tujuan/[id]" />
-        <Stack.Screen name="tujuan/ubah/[id]" />
-        <Stack.Screen name="setoran/baru" />
-        <Stack.Screen name="setoran/[id]" />
-        <Stack.Screen name="setoran/tercapai" />
-        <Stack.Screen name="gajian" />
-        {/* Leaving a mission asks first, so no swipe back. */}
-        <Stack.Screen name="misi-harian" options={{ gestureEnabled: false }} />
-        <Stack.Protected guard={__DEV__}>
-          <Stack.Screen name="test-misi" />
-          <Stack.Screen name="test-misi-kuis" />
-        </Stack.Protected>
-      </Stack.Protected>
-    </Stack>
+    
+<Stack
+  screenOptions={{
+    headerShown: false,
+    contentStyle: { backgroundColor: colors.bg2 },
+  }}
+>
+  {/* Auth dapat diakses sebelum maupun sesudah onboarding */}
+  <Stack.Screen name="auth/index" />
+
+  {/* Pengguna yang belum menyelesaikan onboarding */}
+  <Stack.Protected guard={!onboarded}>
+    <Stack.Screen name="(onboarding)" />
+  </Stack.Protected>
+
+  {/* Pengguna yang sudah memiliki profil */}
+  <Stack.Protected guard={onboarded}>
+    <Stack.Screen name="(tabs)" />
+    <Stack.Screen name="profil" />
+    <Stack.Screen name="kuota" />
+    <Stack.Screen name="catatan/baru" />
+    <Stack.Screen name="catatan/[id]" />
+    <Stack.Screen name="riwayat" />
+    <Stack.Screen name="tahan" />
+    <Stack.Screen name="tujuan/baru" />
+    <Stack.Screen name="tujuan/[id]" />
+    <Stack.Screen name="tujuan/ubah/[id]" />
+    <Stack.Screen name="setoran/baru" />
+    <Stack.Screen name="setoran/[id]" />
+    <Stack.Screen name="setoran/tercapai" />
+    <Stack.Screen name="gajian" />
+    <Stack.Screen name="misi-harian" options={{ gestureEnabled: false }} />
+    <Stack.Protected guard={__DEV__}>
+      <Stack.Screen name="test-misi" />
+      <Stack.Screen name="test-misi-kuis" />
+    </Stack.Protected>
+  </Stack.Protected>
+</Stack>
+
   );
 }
 

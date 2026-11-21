@@ -30,10 +30,12 @@ export type AppStores = {
 export async function openAppStores(): Promise<AppStores> {
   const key = await getOrCreateDatabaseKey();
   const sqlite = await openDatabaseAsync(DATABASE_NAME);
-  // The key must be set before any other statement (SQLCipher). Hex only, so no quoting issues.
+
   await sqlite.execAsync(`PRAGMA key = '${key}';`);
   await sqlite.execAsync("PRAGMA foreign_keys = ON;");
+
   const db = drizzle(sqlite, { schema });
+
   try {
     await migrate(db, migrations);
   } catch (error) {
@@ -43,6 +45,7 @@ export async function openAppStores(): Promise<AppStores> {
     }
     throw error;
   }
+
   return {
     profile: createSqliteProfileStore(db),
     entries: createSqliteEntryStore(db),

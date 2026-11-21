@@ -1,3 +1,4 @@
+
 // Test harness for whole-app tests: renders the real routes with an in-memory profile store
 // instead of the encrypted SQLite database. Use made-up data only.
 //
@@ -32,7 +33,6 @@ let mockFailSaves = false;
 
 jest.mock("@/db/open", () => ({
   openAppStores: async () => ({
-    // Delegates to the current test's store; completeOnboarding can be made to fail.
     profile: new Proxy({} as ProfileStore, {
       get:
         (_target, key: keyof ProfileStore) =>
@@ -61,7 +61,6 @@ jest.mock("@/db/open", () => ({
           ? Promise.reject(new Error("save failed"))
           : mockMissionStore.complete(input),
     },
-    // Delegates to whichever in-memory store the current test launched with.
     saving: new Proxy({} as SavingStore, {
       get:
         (_target, key: keyof SavingStore) =>
@@ -94,7 +93,9 @@ export async function launchApp(
   );
   mockMissionStore = createInMemoryMissionStore(options.missions ?? []);
   mockFailSaves = options.failSaves ?? false;
+
   const app = await renderRouter("./src/app", { initialUrl: "/" });
+
   return {
     app,
     store: mockStore,
@@ -111,6 +112,7 @@ export function onboardedProfile(
   over: Partial<Profile> = {},
 ): Profile {
   return {
+    name: "Andi",
     habitType: "impulsive",
     jajanBudget,
     onboardingCompletedAt: new Date(2026, 0, 1),
@@ -131,7 +133,18 @@ export async function reachBudgetStep(
   answers: [string, string, string, string, string],
 ) {
   await fireEvent.press(await screen.findByText("Mulai"));
-  for (const label of answers) await answer(label);
-  await fireEvent.press(await screen.findByText("Lanjut"));
+
+  for (const label of answers) {
+    await answer(label);
+  }
+
+  await fireEvent.press(screen.getByText("Lanjut"));
+
   await screen.findByText("Berapa kuota jajanmu sebulan?");
+
+  // Isi nama panggilan untuk kebutuhan pengujian.
+  await fireEvent.changeText(
+    screen.getByTestId("profile-name-input"),
+    "Andi",
+  );
 }

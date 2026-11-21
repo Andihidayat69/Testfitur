@@ -17,8 +17,6 @@ test(
     await screen.findByText("Pertanyaan 1 dari 5");
     expect(screen.getByText("Lanjut")).toBeDisabled();
 
-    // Five current onboarding questions.
-    // These answers are intended to produce the Planner habit type.
     await answer("Membagi uang untuk kebutuhan, tabungan, dan hiburan.");
     await screen.findByText("Pertanyaan 2 dari 5");
 
@@ -33,15 +31,20 @@ test(
 
     await answer("Membagi uang untuk tabungan dan kebutuhan pribadi.");
 
-    // Verify the result and ensure the profile is not saved before budgeting.
     expect(await screen.findByText("The Planner")).toBeTruthy();
     expect(app.getPathname()).toBe("/result");
     expect(await store.getProfile()).toBeNull();
 
     await fireEvent.press(screen.getByText("Lanjut"));
 
-    // Complete monthly budget setup.
     await screen.findByText("Berapa kuota jajanmu sebulan?");
+
+    // Isi nama panggilan sebelum menyimpan profil.
+    await fireEvent.changeText(
+      screen.getByTestId("profile-name-input"),
+      "Andi",
+    );
+
     await fireEvent.press(screen.getByText("Rp800.000"));
 
     expect(screen.getByTestId("jajan-budget-input").props.value).toBe(
@@ -50,7 +53,6 @@ test(
 
     await fireEvent.press(screen.getByText("Simpan kuota"));
 
-    // Optional payday reminder step.
     await waitFor(() => expect(app.getPathname()).toBe("/gajian"));
 
     expect(await store.getProfile()).not.toBeNull();
@@ -62,6 +64,7 @@ test(
     const saved = await store.getProfile();
 
     expect(saved).toMatchObject({
+      name: "Andi",
       habitType: "planner",
       jajanBudget: 800000,
       payday: null,

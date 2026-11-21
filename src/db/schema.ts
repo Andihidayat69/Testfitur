@@ -14,18 +14,27 @@ export const profile = sqliteTable(
   "profile",
   {
     id: integer("id").primaryKey(),
+
+    /** User's display name. */
+    name: text("name").notNull().default(""),
+
     habitType: text("habit_type", {
       enum: ["planner", "saver", "impulsive", "spontaneous", "balanced"],
     }).notNull(),
+
     /** Integer rupiah. */
     jajanBudget: integer("jajan_budget").notNull(),
+
     onboardingCompletedAt: integer("onboarding_completed_at", {
       mode: "timestamp_ms",
     }).notNull(),
+
     /** Payday Reminder (docs/specs/payday-reminder.md): day of month 1–31, empty when off. */
     paydayDay: integer("payday_day"),
+
     /** Integer rupiah to set aside on payday. */
     paydaySaveAmount: integer("payday_save_amount"),
+
     /** The payday (YYYY-MM-DD) whose pop-up was last acted on. */
     paydayHandledFor: text("payday_handled_for"),
   },
@@ -41,8 +50,10 @@ export const entries = sqliteTable(
   {
     id: text("id").primaryKey(), // UUID, unique without a server (decision 0002)
     type: text("type", { enum: ["expense", "income"] }).notNull(),
+
     /** Integer rupiah. */
     amount: integer("amount").notNull(),
+
     category: text("category", {
       enum: [
         "food_snacks",
@@ -53,9 +64,12 @@ export const entries = sqliteTable(
         "other",
       ],
     }),
+
     note: text("note"),
+
     /** Local calendar date, YYYY-MM-DD. */
     occurredOn: text("occurred_on").notNull(),
+
     createdAt: integer("created_at", { mode: "timestamp_ms" }).notNull(),
     updatedAt: integer("updated_at", { mode: "timestamp_ms" }).notNull(),
   },
@@ -75,20 +89,27 @@ export const pauses = sqliteTable(
   {
     id: text("id").primaryKey(), // UUID
     item: text("item").notNull(),
+
     /** Integer rupiah. */
     price: integer("price").notNull(),
+
     category: text("category", {
       enum: ["food_snacks", "online_shopping", "entertainment"],
     }).notNull(),
+
     question: integer("question").notNull(),
     decision: text("decision", { enum: ["wait", "buy"] }).notNull(),
+
     /** Local calendar date, YYYY-MM-DD. */
     decidedOn: text("decided_on").notNull(),
+
     decidedAt: integer("decided_at", { mode: "timestamp_ms" }).notNull(),
+
     /** The expense recorded for "buy"; cleared if that expense is deleted. */
     entryId: text("entry_id").references(() => entries.id, {
       onDelete: "set null",
     }),
+
     points: integer("points").notNull(),
   },
   (t) => [
@@ -104,6 +125,7 @@ export const goals = sqliteTable(
   {
     id: text("id").primaryKey(), // UUID
     name: text("name").notNull(),
+
     icon: text("icon", {
       enum: [
         "smartphone",
@@ -116,10 +138,13 @@ export const goals = sqliteTable(
         "star",
       ],
     }).notNull(),
+
     /** Integer rupiah. */
     target: integer("target").notNull(),
+
     createdAt: integer("created_at", { mode: "timestamp_ms" }).notNull(),
     updatedAt: integer("updated_at", { mode: "timestamp_ms" }).notNull(),
+
     /** When deposits first reached the target; cleared if they drop below it. */
     reachedAt: integer("reached_at", { mode: "timestamp_ms" }),
   },
@@ -131,17 +156,23 @@ export const deposits = sqliteTable(
   "deposits",
   {
     id: text("id").primaryKey(), // UUID
+
     goalId: text("goal_id")
       .notNull()
       .references(() => goals.id, { onDelete: "cascade" }),
+
     /** Integer rupiah. */
     amount: integer("amount").notNull(),
+
     /** Local calendar date, YYYY-MM-DD. */
     occurredOn: text("occurred_on").notNull(),
+
     source: text("source", { enum: ["manual", "pause"] }).notNull(),
+
     pauseId: text("pause_id").references(() => pauses.id, {
       onDelete: "set null",
     }),
+
     createdAt: integer("created_at", { mode: "timestamp_ms" }).notNull(),
     updatedAt: integer("updated_at", { mode: "timestamp_ms" }).notNull(),
   },
@@ -156,14 +187,19 @@ export const deposits = sqliteTable(
 export const missions = sqliteTable(
   "missions",
   {
-    id: text("id").primaryKey(), // UUID
+    id: text("id").primaryKey(),
+
     /** Local calendar date, YYYY-MM-DD. Unique: one mission per day. */
     doneOn: text("done_on").notNull().unique(),
+
     level: integer("level").notNull(),
+
     /** Comma-separated ids of the 3 questions, used for the 7-day no-repeat rule. */
     questionIds: text("question_ids").notNull(),
+
     correct: integer("correct").notNull(),
     points: integer("points").notNull(),
+
     completedAt: integer("completed_at", { mode: "timestamp_ms" }).notNull(),
   },
   (t) => [
